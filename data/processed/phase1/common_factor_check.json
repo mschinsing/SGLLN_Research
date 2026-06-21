@@ -1,0 +1,19 @@
+{
+  "pc1_var_explained": 0.1051360596548613,
+  "original": {
+    "tau_dep": 1.2502217762404617,
+    "pct_pairs_clear_floor": 13.885821289672059,
+    "n_edges": 8676,
+    "stat_vs_semantic_ARI": 0.05191094153779527,
+    "stat_vs_category_ARI": 0.04366487711440421
+  },
+  "residualized": {
+    "tau_dep": 1.277452088288912,
+    "pct_pairs_clear_floor": 14.890926841759894,
+    "n_edges": 9304,
+    "stat_vs_semantic_ARI": 0.07288277205935326,
+    "stat_vs_category_ARI": 0.0864550667379385
+  },
+  "leadingness_corr_orig_resid": 0.7466985318498831,
+  "verdict": "STRUCTURE SURVIVES \u2014 not merely common-factor reaction speed; proceed to Phase 3"
+}

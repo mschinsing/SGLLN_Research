@@ -1,0 +1,150 @@
+{
+  "H1_detail": {
+    "econ_to_pol_netflow": -0.000537161960569228,
+    "perm_p": 0.4702648675662169,
+    "category_leadingness": {
+      "Business": 0.15397315870431938,
+      "Crypto": -0.043505833248454064,
+      "Economy": -0.03223229862649786,
+      "Entertainment": -0.032730372942497234,
+      "Geopolitics": 0.5440768697666098,
+      "Politics": -0.025008454644627354,
+      "Science": -0.4831301498867747,
+      "Sports": -0.08144291912207799
+    },
+    "flow_matrix": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.03497235941546153,
+        0.1222784064553698,
+        -0.003277607166511964
+      ],
+      [
+        0.0,
+        0.0,
+        0.0023738301048401413,
+        0.005668507839217285,
+        0.0011933256021233987,
+        -0.0018185529061501245,
+        -0.04999717004408386,
+        -0.000925773844400904
+      ],
+      [
+        0.0,
+        -0.0023738301048401413,
+        0.0,
+        -0.011372781006782372,
+        -0.08855253788718531,
+        -0.000537161960569228,
+        0.01663955197871816,
+        0.053964460354161026
+      ],
+      [
+        0.0,
+        -0.005668507839217285,
+        0.011372781006782372,
+        0.0,
+        -0.05824466426563813,
+        0.004548430982389681,
+        0.04544657443921321,
+        -0.030184987266027082
+      ],
+      [
+        0.0,
+        -0.0011933256021233924,
+        0.0885525378871853,
+        0.05824466426563813,
+        0.0,
+        0.01128330726195801,
+        0.3670385273381906,
+        0.020151158615761146
+      ],
+      [
+        -0.03497235941546153,
+        0.0018185529061501245,
+        0.0005371619605692293,
+        -0.004548430982389682,
+        -0.01128330726195801,
+        0.0,
+        0.036137380584249194,
+        -0.012697452435786679
+      ],
+      [
+        -0.1222784064553698,
+        0.049997170044083855,
+        -0.01663955197871816,
+        -0.04544657443921321,
+        -0.3670385273381906,
+        -0.036137380584249194,
+        0.0,
+        0.05441312086488245
+      ],
+      [
+        0.003277607166511964,
+        0.000925773844400901,
+        -0.053964460354161026,
+        0.03018498726602709,
+        -0.020151158615761146,
+        0.01269745243578668,
+        -0.05441312086488245,
+        0.0
+      ]
+    ],
+    "categories": [
+      "Business",
+      "Crypto",
+      "Economy",
+      "Entertainment",
+      "Geopolitics",
+      "Politics",
+      "Science",
+      "Sports"
+    ]
+  },
+  "H3_detail": {
+    "unfiltered": {
+      "n_losers": 213,
+      "avg_loss_magnitude": 0.016686286646450756
+    },
+    "filtered": {
+      "n_losers": 105,
+      "avg_loss_magnitude": 0.012803620757975287
+    },
+    "random": {
+      "n_losers": 217,
+      "avg_loss_magnitude": 0.01753504807659042
+    },
+    "filtered_vs_unfiltered_reduction_pct": 23.26860355896696,
+    "filtered_vs_random_reduction_pct": 26.982688031130444
+  },
+  "adjudication": [
+    {
+      "hypothesis": "H1",
+      "claim": "Economic \u2192 Political lead-lag persists after liquidity controls",
+      "verdict": "WEAK / NOT SUPPORTED",
+      "evidence": "Economy\u2192Politics net flow = -0.0005 (perm p=0.470); liquidity R\u00b2=0.006 (not liquidity-driven); common-factor leadingness \u03c1=0.75"
+    },
+    {
+      "hypothesis": "H2",
+      "claim": "ARI(spectral clusters, categories) \u2248 0.3\u20130.6",
+      "verdict": "REJECTED",
+      "evidence": "statistical\u2194category ARI=0.044 (far below 0.3). (Semantic\u2194category ARI=0.37 is in range, but those are text clusters, not spectral.)"
+    },
+    {
+      "hypothesis": "H3",
+      "claim": "Semantic filtering reduces loss magnitude by 10\u201320%",
+      "verdict": "PARTIAL (loss-magnitude only)",
+      "evidence": "avg losing-trade magnitude: unfiltered=0.0167 \u2192 filtered=0.0128 (+23% vs unfiltered, +27% vs random) \u2014 in/above the 10\u201320% range and specific to filtering. BUT no directional edge (unfiltered\u2212random CI [-0.056,+0.075] spans 0): a loss-control effect, not alpha."
+    },
+    {
+      "hypothesis": "H4",
+      "claim": "Event-driven reconfiguration AND calibration advantage for leaders",
+      "verdict": "PARTIAL / SUGGESTIVE",
+      "evidence": "|\u03bb1| event 0.583 vs non-event 0.530 (MW p=0.092, exploratory); calibration leaders Brier 0.041 vs 0.044 (p=0.35, NS)"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "n_contracts": 18,
+  "median_spread_price": 9.944427190170305e-05,
+  "median_spread_cents": 0.009944427190170305,
+  "spread_is_lower_bound": true,
+  "gross_sharpe": 0.02269779778811579,
+  "break_even_spread_cents": 0.01637269050285234,
+  "net_sharpe_roll_lowerbound": 0.008911633721690458,
+  "net_sharpe_tick_0.1c": -0.11593426017548854,
+  "net_sharpe_1c": -1.3636227818479274,
+  "verdict": "not tradeable (gross edge null; spread underestimated)"
+}

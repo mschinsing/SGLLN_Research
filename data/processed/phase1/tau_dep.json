@@ -1,0 +1,9 @@
+{
+  "tau_dep": 1.2502217762404617,
+  "dep_floor_pct": 95,
+  "block_len": 1.0,
+  "n_pairs_sampled": 1000,
+  "bootstrap_B": 1000,
+  "n_null_draws": 1000000,
+  "max_lag": 5
+}

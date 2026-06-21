@@ -1,0 +1,15 @@
+{
+  "n_contracts": 354,
+  "n_leaders": 154,
+  "n_laggers": 194,
+  "mean_brier_leaders": 0.04070772767253233,
+  "mean_brier_laggers": 0.043924734525115035,
+  "brier_diff_leader_minus_lagger": -0.0032170068525827072,
+  "diff_ci": [
+    -0.020079287926002956,
+    0.01334317071566739
+  ],
+  "mannwhitney_p_leaders_lower": 0.3459058205503438,
+  "corr_leadingness_brier": -0.05618125333043443,
+  "verdict": "No significant calibration advantage for leaders \u2014 leadership is not a calibration/accuracy edge"
+}

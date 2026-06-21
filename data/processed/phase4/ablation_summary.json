@@ -1,0 +1,75 @@
+{
+  "baseline": "dcor / Hermitian / k=7",
+  "rows": [
+    {
+      "ablation": "metric: Pearson",
+      "ari_to_baseline": 0.1716702395904728,
+      "leadingness_spearman": 0.6329240531171159,
+      "n_edges": 8676,
+      "key_stat": "vs dcor"
+    },
+    {
+      "ablation": "metric: Kendall",
+      "ari_to_baseline": 0.036100990855630455,
+      "leadingness_spearman": 0.4623347587879932,
+      "n_edges": 8676,
+      "key_stat": "vs dcor"
+    },
+    {
+      "ablation": "method: symmetric (vs Hermitian)",
+      "ari_to_baseline": 0.14237423501015184,
+      "leadingness_spearman": NaN,
+      "n_edges": 8676,
+      "key_stat": "ARI(Hermitian, symmetric)"
+    },
+    {
+      "ablation": "k=2",
+      "ari_to_baseline": 0.0919782004721953,
+      "leadingness_spearman": NaN,
+      "n_edges": 8676,
+      "key_stat": "ARI_vs_category=0.019"
+    },
+    {
+      "ablation": "k=3",
+      "ari_to_baseline": 0.1243342273335565,
+      "leadingness_spearman": NaN,
+      "n_edges": 8676,
+      "key_stat": "ARI_vs_category=0.128"
+    },
+    {
+      "ablation": "k=5",
+      "ari_to_baseline": 0.231535324679432,
+      "leadingness_spearman": NaN,
+      "n_edges": 8676,
+      "key_stat": "ARI_vs_category=0.089"
+    },
+    {
+      "ablation": "k=7",
+      "ari_to_baseline": 1.0,
+      "leadingness_spearman": NaN,
+      "n_edges": 8676,
+      "key_stat": "ARI_vs_category=0.044"
+    },
+    {
+      "ablation": "k=10",
+      "ari_to_baseline": 0.24487569480010893,
+      "leadingness_spearman": NaN,
+      "n_edges": 8676,
+      "key_stat": "ARI_vs_category=0.035"
+    },
+    {
+      "ablation": "common-factor removed",
+      "ari_to_baseline": NaN,
+      "leadingness_spearman": 0.7466985318498831,
+      "n_edges": 9304,
+      "key_stat": "PC1=10.5%var; struct survives"
+    },
+    {
+      "ablation": "liquidity (Step 1.6)",
+      "ari_to_baseline": NaN,
+      "leadingness_spearman": NaN,
+      "n_edges": 8676,
+      "key_stat": "leadingness~vol R2=0.006; persists in terciles"
+    }
+  ]
+}

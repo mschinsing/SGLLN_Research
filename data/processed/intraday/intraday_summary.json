@@ -1,0 +1,20 @@
+{
+  "max_lag_hours": 24,
+  "n_hours": 3792,
+  "edge_overlap_with_daily": 0.17035500230520978,
+  "leadingness_spearman": 0.17810739851189558,
+  "ari_hourly_daily": 0.046090415179453836,
+  "ari_hourly_category": 0.07292446294270254,
+  "ari_daily_category": 0.04366487711440421,
+  "dominant_lag_median_h": 10.0,
+  "dominant_lag_mean_h": 11.141078838174273,
+  "subtopic_leadingness_hourly": {
+    "appointments": -0.13143482553951955,
+    "congress": 0.12954413200222523,
+    "electoral/margin": -0.03365716385363159,
+    "nomination": 0.17987665883754872,
+    "other": -0.10163899902829684,
+    "presidential": -0.027930525818992993,
+    "state-level": -0.01475927659933303
+  }
+}

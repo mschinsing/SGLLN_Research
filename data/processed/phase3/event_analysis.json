@@ -1,0 +1,7 @@
+{
+  "n_windows": 10,
+  "n_event_windows": 7,
+  "lambda1_mean_event": 0.5827530350361042,
+  "lambda1_mean_nonevent": 0.5296137317326249,
+  "mannwhitney_p_event_higher": 0.09166666666666667
+}

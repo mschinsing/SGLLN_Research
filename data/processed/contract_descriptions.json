@@ -1,0 +1,2480 @@
+{
+  "21742633143463906290569050155826241533067272736897614950488156847949938836455": {
+    "token_id": "21742633143463906290569050155826241533067272736897614950488156847949938836455",
+    "condition_id": "0xdd22472e552920b8438158ea7238bfadfa4f736aa4cee91a6b86c39ead110917",
+    "text": "Will Donald Trump win the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will Donald Trump win the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "69236923620077691027083946871148646972011131466059644796654161903044970987404": {
+    "token_id": "69236923620077691027083946871148646972011131466059644796654161903044970987404",
+    "condition_id": "0xc6485bb7ea46d7bb89beb9c91e7572ecfc72a6273789496f78bc5e989e4d1638",
+    "text": "Will Kamala Harris win the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will Kamala Harris win the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "21271000291843361249209065706097167029083067325856089903026951915683588703117": {
+    "token_id": "21271000291843361249209065706097167029083067325856089903026951915683588703117",
+    "condition_id": "0x265366ede72d73e137b2b9095a6cdc9be6149290caa295738a95e3d881ad0865",
+    "text": "Kamala Harris wins the popular vote? [Category: Politics] [YES outcome]",
+    "question": "Kamala Harris wins the popular vote?",
+    "category": "Politics"
+  },
+  "97508453625137094121006941885029334584603955750917059456402541591996493525667": {
+    "token_id": "97508453625137094121006941885029334584603955750917059456402541591996493525667",
+    "condition_id": "0x230144e34a84dfd0ebdc6de7fde37780e28154f6f84dd8880c7f0e58d302d448",
+    "text": "Will Michelle Obama win the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will Michelle Obama win the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "75551890681049796405776295654438099776333571510662809052054780589218524237663": {
+    "token_id": "75551890681049796405776295654438099776333571510662809052054780589218524237663",
+    "condition_id": "0x7da35195ac3c7bf167f88ab0c27067a99020e36de67d39968b71d9debcdd925e",
+    "text": "Will Robert F. Kennedy Jr. win the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will Robert F. Kennedy Jr. win the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "37607087749772082751516356212488395841221931637322106913544914381521802317192": {
+    "token_id": "37607087749772082751516356212488395841221931637322106913544914381521802317192",
+    "condition_id": "0x1fc1e5595adab4d8160b2fe72cfed61131e3d5e61b5c334160d1729d7380ab16",
+    "text": "Fed increases interest rates by 25+ bps after November 2024 meeting? [Category: Economy] [YES outcome]",
+    "question": "Fed increases interest rates by 25+ bps after November 2024 meeting?",
+    "category": "Economy"
+  },
+  "42699080635179861375280720242213672850141860123562672932351602811041149946128": {
+    "token_id": "42699080635179861375280720242213672850141860123562672932351602811041149946128",
+    "condition_id": "0xcd1b6b71a1964f15e2c14809594cbfa0d576270e8ef94c8c24913121097e09e5",
+    "text": "Will Donald Trump win the popular vote in the 2024 Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will Donald Trump win the popular vote in the 2024 Presidential Election?",
+    "category": "Politics"
+  },
+  "74706296939809671893768905246606398708802232875822379413753245164957842209130": {
+    "token_id": "74706296939809671893768905246606398708802232875822379413753245164957842209130",
+    "condition_id": "0xb92f22143e7b48609a82573fa8197dc73683a15acb467b0f51ee63da7e3f520b",
+    "text": "Will any other Democratic Politician win the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will any other Democratic Politician win the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "37221056259325429041732308291782104664756441972369963169173383951407900144525": {
+    "token_id": "37221056259325429041732308291782104664756441972369963169173383951407900144525",
+    "condition_id": "0xad80eb89c63afba0adaede4350c2dae8088d0faf00d598d72edd3446929019c8",
+    "text": "Will the Browns win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Browns win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "79316691944049488812500733050438507204613781002222375264046442941003895009475": {
+    "token_id": "79316691944049488812500733050438507204613781002222375264046442941003895009475",
+    "condition_id": "0x63634b4e14297a748923f86dca4fa0c6c659db0f5fadeeb8e419e48e20759c34",
+    "text": "Will Hillary Clinton win the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will Hillary Clinton win the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "104468264438118085465761163263611745362235161579898771567536629365715258090512": {
+    "token_id": "104468264438118085465761163263611745362235161579898771567536629365715258090512",
+    "condition_id": "0x70de1b06646805d289744df352ed58b5612fafb3d0322e483243c32cb110f8a7",
+    "text": "Will Trump launch a coin before the election? [Category: Politics] [YES outcome]",
+    "question": "Will Trump launch a coin before the election?",
+    "category": "Politics"
+  },
+  "88027839609243624193415614179328679602612916497045596227438675518749602824929": {
+    "token_id": "88027839609243624193415614179328679602612916497045596227438675518749602824929",
+    "condition_id": "0x14018049e265a2d88f284be9588e2e3542e3a3df08ccdb344d28355dd7fdd8ef",
+    "text": "Will Joe Biden win the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will Joe Biden win the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "21331146930618962824689789220409196138572970640663273021860765909977344077098": {
+    "token_id": "21331146930618962824689789220409196138572970640663273021860765909977344077098",
+    "condition_id": "0xf3a7a2365b6ec113117184bb2d1b020577355a1028fde0b32671c4cfbbbbd589",
+    "text": "Will Hillary Clinton win the popular vote in the 2024 Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will Hillary Clinton win the popular vote in the 2024 Presidential Election?",
+    "category": "Politics"
+  },
+  "76018684495672907293972579038657312280524447899213220717960084627380959769440": {
+    "token_id": "76018684495672907293972579038657312280524447899213220717960084627380959769440",
+    "condition_id": "0xd1e760f57415093db2e8378b79fe37ec8dc9ad09ee57f6f0cdc2468ae29fea23",
+    "text": "Will Biden finish his term? [Category: Politics] [YES outcome]",
+    "question": "Will Biden finish his term?",
+    "category": "Politics"
+  },
+  "29771515314065403331935508893946579645282141892225585852084723308418208825505": {
+    "token_id": "29771515314065403331935508893946579645282141892225585852084723308418208825505",
+    "condition_id": "0x653483009043f1663360bc35ed8fb542d3f9453916082d20ff025adaa2fe7032",
+    "text": "Will Joe Biden win the 2024 Democratic Presidential Nomination? [Category: Politics] [YES outcome]",
+    "question": "Will Joe Biden win the 2024 Democratic Presidential Nomination?",
+    "category": "Politics"
+  },
+  "61307174745343826105381155328818841321097085669107501488931143161146416325701": {
+    "token_id": "61307174745343826105381155328818841321097085669107501488931143161146416325701",
+    "condition_id": "0x9e9071636d176562592a98dfede865385ba0cff7864cfa01f0479ca6e9e26e1b",
+    "text": "Will Kamala Harris win the 2024 Democratic Presidential Nomination? [Category: Politics] [YES outcome]",
+    "question": "Will Kamala Harris win the 2024 Democratic Presidential Nomination?",
+    "category": "Politics"
+  },
+  "99200347365169760700385453164878188504479548439905371494493482364634358863823": {
+    "token_id": "99200347365169760700385453164878188504479548439905371494493482364634358863823",
+    "condition_id": "0x40bbdd26dc08406eedcb913efee7f7faddf50e16fc21caedb4972d57fd71e0d1",
+    "text": "Will Gavin Newsom win the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will Gavin Newsom win the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "25788984364015292223605977307142748201985724991469784186655292374059222006895": {
+    "token_id": "25788984364015292223605977307142748201985724991469784186655292374059222006895",
+    "condition_id": "0x87d67272f0ce1bb0d80ba12a1ab79287b2a235a5f361f5bcbc06ea0ce34e61c5",
+    "text": "Will there be a US Government shutdown? [Category: Economy] [YES outcome]",
+    "question": "Will there be a US Government shutdown? ",
+    "category": "Economy"
+  },
+  "114621786190778887037417697112239263106515104256005574518022428806477237896483": {
+    "token_id": "114621786190778887037417697112239263106515104256005574518022428806477237896483",
+    "condition_id": "0x441e51dcff7c576a75d9a72d920b1e55e7173bcd9905dc499c5000fb39588b3c",
+    "text": "Will the Falcons win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Falcons win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "114906809173953523276355880925100389606649541176600550608761173629971358774558": {
+    "token_id": "114906809173953523276355880925100389606649541176600550608761173629971358774558",
+    "condition_id": "0x2d606a51f902a4d934a4b810dd77cb28bb8e40268f42354057b5a47f9799efad",
+    "text": "Will Michelle Obama win the 2024 Democratic Presidential Nomination? [Category: Politics] [YES outcome]",
+    "question": "Will Michelle Obama win the 2024 Democratic Presidential Nomination?",
+    "category": "Politics"
+  },
+  "44156160998642855319981588211257797237889830870042632479927373393658199455280": {
+    "token_id": "44156160998642855319981588211257797237889830870042632479927373393658199455280",
+    "condition_id": "0x64300d0e8784825451fc7832a2cbdecb34de8baf54d7066f2bd7ac3c241ff1e1",
+    "text": "Will Dak Prescott win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Dak Prescott win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "17271282640034103271682737572094837186921498503512408359915534513146889691691": {
+    "token_id": "17271282640034103271682737572094837186921498503512408359915534513146889691691",
+    "condition_id": "0xd6f4c41fd20b8c6d5b48d528ead981d8fdf3da99d05018443e2d5bc60085e3dd",
+    "text": "Will Gavin Newsom win the 2024 Democratic Presidential Nomination? [Category: Politics] [YES outcome]",
+    "question": "Will Gavin Newsom win the 2024 Democratic Presidential Nomination?",
+    "category": "Politics"
+  },
+  "1751860013162459682513846908194657754945547227915014803838522488782202409170": {
+    "token_id": "1751860013162459682513846908194657754945547227915014803838522488782202409170",
+    "condition_id": "0x215625b9e962f3f499f832c77dd4caa400bd8435369b5fd65e8673c8b2c4da66",
+    "text": "Will Michelle Obama win the popular vote in the 2024 Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will Michelle Obama win the popular vote in the 2024 Presidential Election?",
+    "category": "Politics"
+  },
+  "35181131500187602593152358358430710972979053258824221563421108711539553867878": {
+    "token_id": "35181131500187602593152358358430710972979053258824221563421108711539553867878",
+    "condition_id": "0x198d833c085ed0c858165192e9fd446c5392dbcdedd1132d89c578c0b5c29b2f",
+    "text": "Will any other Democrat Politician win the popular vote in the 2024 Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will any other Democrat Politician win the popular vote in the 2024 Presidential Election?",
+    "category": "Politics"
+  },
+  "101015352831936309774021600064885251763304202685599258456244867148938388560483": {
+    "token_id": "101015352831936309774021600064885251763304202685599258456244867148938388560483",
+    "condition_id": "0xea236b37f6ba053c48240dafea9b4b745ce43aebd44d8911df35302d1ac951a3",
+    "text": "Will Hillary Clinton win the 2024 Democratic Presidential Nomination? [Category: Politics] [YES outcome]",
+    "question": "Will Hillary Clinton win the 2024 Democratic Presidential Nomination?",
+    "category": "Politics"
+  },
+  "40946145547892120835388934032378411687415301148304670567000395360529369472824": {
+    "token_id": "40946145547892120835388934032378411687415301148304670567000395360529369472824",
+    "condition_id": "0x436c765bcbdca98b4b773fc87be547dd1a3b7155eece9870bcb997e89b184950",
+    "text": "Will the Texans win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Texans win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "21678216225487973526804977855895622426800255930641449554839164336032353007661": {
+    "token_id": "21678216225487973526804977855895622426800255930641449554839164336032353007661",
+    "condition_id": "0xde00758fcf1165cfce32dc4f85f021e71da12e40c4b9140117c9beddd090776d",
+    "text": "Will the Steelers win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Steelers win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "16571355100327104454501190118689337347118543324830329817599252230759175472329": {
+    "token_id": "16571355100327104454501190118689337347118543324830329817599252230759175472329",
+    "condition_id": "0x80b4f6ca982ba1ff550316f725193f5f29761bf65770e37f11fa4b9736f1f7c1",
+    "text": "Will the Commanders win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Commanders win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "87463472219622008305238353375053095763486103522943895739006440335317118495978": {
+    "token_id": "87463472219622008305238353375053095763486103522943895739006440335317118495978",
+    "condition_id": "0x3faf3dbf90050968deafdc980118910ebe8d2410a573bc265ba81fc4658c793b",
+    "text": "Will someone else win the 2024 Democratic Presidential Nomination? [Category: Politics] [YES outcome]",
+    "question": "Will someone else win the 2024 Democratic Presidential Nomination?",
+    "category": "Politics"
+  },
+  "26438958968580962785252726211794859871906612281484106917466419537752712291412": {
+    "token_id": "26438958968580962785252726211794859871906612281484106917466419537752712291412",
+    "condition_id": "0x87ebcc9f6660a5b9613650c3d91bae01f4503b11eb61a782b993bbc3a5d41b04",
+    "text": "Will 'Joker 2' gross most in 2024? [Category: Entertainment] [YES outcome]",
+    "question": "Will 'Joker 2' gross most in 2024?",
+    "category": "Entertainment"
+  },
+  "67868519954760687763487241157276802526180142016012426171914934924189510489571": {
+    "token_id": "67868519954760687763487241157276802526180142016012426171914934924189510489571",
+    "condition_id": "0x1742f180a7ff24c2a89f3775e8f4243169085b7a25a50f15c76090b816e4c994",
+    "text": "Will 'Despicable Me 4' gross most in 2024? [Category: Entertainment] [YES outcome]",
+    "question": "Will 'Despicable Me 4' gross most in 2024?",
+    "category": "Entertainment"
+  },
+  "786115068931737812060412156745557005902954492066252507777390810575643513056": {
+    "token_id": "786115068931737812060412156745557005902954492066252507777390810575643513056",
+    "condition_id": "0x9a8987859d0109cbd84d4ab1bdc7041233e7ce8810d52f148b078f9cf6fa73a8",
+    "text": "Will the Dolphins win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Dolphins win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "64903093311385616430821497488306433314807585397286521531639186532059591846310": {
+    "token_id": "64903093311385616430821497488306433314807585397286521531639186532059591846310",
+    "condition_id": "0x9c66114d2dfe2139325cc7a408a5cd5d2e73b55d919e2141b3a0ed83fc15895d",
+    "text": "Will Bitcoin hit $100k in 2024? [Category: Crypto] [YES outcome]",
+    "question": "Will Bitcoin hit $100k in 2024?",
+    "category": "Crypto"
+  },
+  "102635810088606948147311305941716999359339527059960270753019994691928431958693": {
+    "token_id": "102635810088606948147311305941716999359339527059960270753019994691928431958693",
+    "condition_id": "0xe14a4418679b88bab097a05f2e7d598d9cec0b11824464aef949ca3c9c90440c",
+    "text": "Will the Seahawks win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Seahawks win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "27476017135100494043195390313759938274146345760322436807254270081565114041257": {
+    "token_id": "27476017135100494043195390313759938274146345760322436807254270081565114041257",
+    "condition_id": "0x8f3a5a7a725e2e60aac0c59e50c9f2c6b5c1b22164696a71320d275234c742ce",
+    "text": "Democrats win popular vote by 7% or more? [Category: Politics] [YES outcome]",
+    "question": "Democrats win popular vote by 7% or more?",
+    "category": "Politics"
+  },
+  "50376722767982976792819483321675476184683505970028931051190616149906273365875": {
+    "token_id": "50376722767982976792819483321675476184683505970028931051190616149906273365875",
+    "condition_id": "0xa0811c97f529d627b7774a5b188e605736b745a1f892c39e16c5a022fdb84b8b",
+    "text": "Fed rate cut by September 18? [Category: Economy] [YES outcome]",
+    "question": "Fed rate cut by September 18?",
+    "category": "Economy"
+  },
+  "84643183405420394202022228902561826740846808356501215227161666889870223731025": {
+    "token_id": "84643183405420394202022228902561826740846808356501215227161666889870223731025",
+    "condition_id": "0x1070c27e30447364ed6602778729203d29aaa8860cb0a24779eb3a26f68b245f",
+    "text": "Will Fed cut interest rates 6+ times in 2024? [Category: Economy] [YES outcome]",
+    "question": "Will Fed cut interest rates 6+ times in 2024?",
+    "category": "Economy"
+  },
+  "69913821712588735333985512521890927362953334822977029714502150869487857521851": {
+    "token_id": "69913821712588735333985512521890927362953334822977029714502150869487857521851",
+    "condition_id": "0xce4f634a7a9c3b1688fbc6ce302c08deeb1c3313abf1f5e63bb5806d631549ce",
+    "text": "Will Kyler Murray win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Kyler Murray win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "104384626333890484417631221426453974917579250857486058586575825503557175219318": {
+    "token_id": "104384626333890484417631221426453974917579250857486058586575825503557175219318",
+    "condition_id": "0x5401278f7f9c9df79552148e2b280dea9ea91431a77c2c46686b8bec598970e7",
+    "text": "Ethereum all time high in 2024? [Category: Crypto] [YES outcome]",
+    "question": "Ethereum all time high in 2024?",
+    "category": "Crypto"
+  },
+  "67168048085100723858739052462123403186638234654479771162502106690998151449764": {
+    "token_id": "67168048085100723858739052462123403186638234654479771162502106690998151449764",
+    "condition_id": "0x10cacd5e8672cbd40b6d746998440b4b86a51579120cc14f150594a4175a9304",
+    "text": "Will Matthew Stafford win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Matthew Stafford win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "79290738821633012952251194646343347843753407986785745774809464443278141510795": {
+    "token_id": "79290738821633012952251194646343347843753407986785745774809464443278141510795",
+    "condition_id": "0xc53c00d3ed7df96cb528e049ca2d8a6056b620a82bfffd3ad58d35c5f92c02d6",
+    "text": "Will a Democrat win the popular vote and a Republican win the Presidency? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win the popular vote and a Republican win the Presidency?",
+    "category": "Politics"
+  },
+  "65472514467851085454165082260020285934481980138402595424427363412400027785992": {
+    "token_id": "65472514467851085454165082260020285934481980138402595424427363412400027785992",
+    "condition_id": "0x5b372378e0cf11ca55bfd7d57d02d3690a1abb7e8656c356b174ae23a16672b8",
+    "text": "Will the Jets win the AFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Jets win the AFC Championship?",
+    "category": "Sports"
+  },
+  "8618594863261978036253597877931535126844956590961217489077024554052618206706": {
+    "token_id": "8618594863261978036253597877931535126844956590961217489077024554052618206706",
+    "condition_id": "0x7f869993ad783e083661147cfcb54e6304a3d1d1cf4fef3c21d97114c258ffb1",
+    "text": "Will the Colts win the AFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Colts win the AFC Championship?",
+    "category": "Sports"
+  },
+  "86476515438957907056315993820068995378660426416045749849962015285013351695183": {
+    "token_id": "86476515438957907056315993820068995378660426416045749849962015285013351695183",
+    "condition_id": "0x136e99098f7d4087b4c5775d9f9a512de67e50bda37e88fa86b05a226c390182",
+    "text": "Will a Republican win the popular vote and a Democrat win the Presidency? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win the popular vote and a Democrat win the Presidency?",
+    "category": "Politics"
+  },
+  "22535833765723427929773245088435042776045949943240943368073750664192788269527": {
+    "token_id": "22535833765723427929773245088435042776045949943240943368073750664192788269527",
+    "condition_id": "0xcd14a0b8d67206ebf320c3e7754c5a1db352c4b163a90c2d6c598024e465a2b0",
+    "text": "Will the Chiefs win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Chiefs win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "71429224354853733902363804281365366005619669369402236442576853311507584941917": {
+    "token_id": "71429224354853733902363804281365366005619669369402236442576853311507584941917",
+    "condition_id": "0xcf263497b4bd594b3eaf650de77df2483c3443a929e815a4bb8ce2b8cce50de1",
+    "text": "Trump wins every swing state? [Category: Politics] [YES outcome]",
+    "question": "Trump wins every swing state?",
+    "category": "Politics"
+  },
+  "35255375360012657117305792246090443224690221462734865996427532233323562581158": {
+    "token_id": "35255375360012657117305792246090443224690221462734865996427532233323562581158",
+    "condition_id": "0x339ea91e747d04777adfb737a264debeddd1b90f527abe02ce2cbee395455169",
+    "text": "Will the Bengals win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Bengals win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "93645430289189021677165901732863352339673773193328146554291985629040159424030": {
+    "token_id": "93645430289189021677165901732863352339673773193328146554291985629040159424030",
+    "condition_id": "0x32f8d40aaacb6b8b94395555d1e82ee75a84ba5e62e15ab2966b78b5e2f332a4",
+    "text": "GOP wins popular vote by 3-4%? [Category: Politics] [YES outcome]",
+    "question": "GOP wins popular vote by 3-4%?",
+    "category": "Politics"
+  },
+  "41203972685222860920902079285742387800563170529136658677435202314051627876144": {
+    "token_id": "41203972685222860920902079285742387800563170529136658677435202314051627876144",
+    "condition_id": "0xf8d15df1eaf5906059cc1ec214666b0eccab367eb8b57f66afceacf3bdecff1d",
+    "text": "Will Florida State win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will Florida State win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "67648321332889562720702742465853245863647268672651902649177972067583993370930": {
+    "token_id": "67648321332889562720702742465853245863647268672651902649177972067583993370930",
+    "condition_id": "0x2010ff3939e8e664dd57369aa907bbaa6d03ae18be27fe3ab2f4cdcb95a8b2ab",
+    "text": "Will a Republican win the popular vote and the Presidency? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win the popular vote and the Presidency? ",
+    "category": "Politics"
+  },
+  "76898974139298979468235047518432628223042581890492823901295517933784245911471": {
+    "token_id": "76898974139298979468235047518432628223042581890492823901295517933784245911471",
+    "condition_id": "0x20e2d5f8c92270e87a3f60672a67c649e781f9c2ab8b30055ce4e2fb48c458dd",
+    "text": "Fed decreases interest rates by 75+ bps after November 2024 meeting? [Category: Economy] [YES outcome]",
+    "question": "Fed decreases interest rates by 75+ bps after November 2024 meeting?",
+    "category": "Economy"
+  },
+  "33573631646975967490303296373773410479817269960942179527425708594960263761938": {
+    "token_id": "33573631646975967490303296373773410479817269960942179527425708594960263761938",
+    "condition_id": "0xafde9e890a2db339b6515cd75c2d09574dcaf731b483a1ef6ea0a3abc5ec8abd",
+    "text": "Will a Democrat win the popular vote and the Presidency? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win the popular vote and the Presidency? ",
+    "category": "Politics"
+  },
+  "46071143598817311049803259731300640433612842284467383372210522641051027560309": {
+    "token_id": "46071143598817311049803259731300640433612842284467383372210522641051027560309",
+    "condition_id": "0x446e2d8e2ffbe7db85cd2239892df5447e73325b3552d07d5d6901b2eff95a59",
+    "text": "Will the Chargers win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Chargers win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "115302726867690215116194938076793711276517089258413842812940685256745571542731": {
+    "token_id": "115302726867690215116194938076793711276517089258413842812940685256745571542731",
+    "condition_id": "0x81a58e23bb2a6af50c841b7d65dc703175999cd1a0d3e522180823acfc262fcb",
+    "text": "Will the Jaguars win the AFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Jaguars win the AFC Championship?",
+    "category": "Sports"
+  },
+  "104733076087729953713940934940391391993326070110721374162122727321651009470076": {
+    "token_id": "104733076087729953713940934940391391993326070110721374162122727321651009470076",
+    "condition_id": "0x5bc9ab2b40953e2baf98609e054d089e87937b78a3c8a634cc1fc50c392166a4",
+    "text": "Will the Jets win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Jets win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "38346428097173219827480569765679142441985134475022627197044493217626944740372": {
+    "token_id": "38346428097173219827480569765679142441985134475022627197044493217626944740372",
+    "condition_id": "0xde507497bdd5d63090dfd8e6e29167216c66576bf8d029d87c99bef4e357c696",
+    "text": "Fed decreases interest rates by 75+ bps after December 2024 meeting? [Category: Economy] [YES outcome]",
+    "question": "Fed decreases interest rates by 75+ bps after December 2024 meeting?",
+    "category": "Economy"
+  },
+  "96404870680531697292788145333705429762370661278621665925868256650124167091957": {
+    "token_id": "96404870680531697292788145333705429762370661278621665925868256650124167091957",
+    "condition_id": "0x02bc0bbff054877a08cdc4f9ccf4e7606804bc05c27f5faccf26c6e1666a5558",
+    "text": "Will a Democrat win Pennsylvania Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Pennsylvania Presidential Election?",
+    "category": "Politics"
+  },
+  "41869418543774281154831539499236480971965193908823422551107520962056848443171": {
+    "token_id": "41869418543774281154831539499236480971965193908823422551107520962056848443171",
+    "condition_id": "0x3f008ca09147ae7da60bd7ed135f7e9c1a92459ae74253c3f2b897bb31ce5062",
+    "text": "Democrats win popular vote by 1-2%? [Category: Politics] [YES outcome]",
+    "question": "Democrats win popular vote by 1-2%?",
+    "category": "Politics"
+  },
+  "99142454428537584544622121027442998138704969211018679231469566937962407405481": {
+    "token_id": "99142454428537584544622121027442998138704969211018679231469566937962407405481",
+    "condition_id": "0xb26fd99a7b7bae4e13c9bb3becf65353708a805f9c1aea74484d107e6ba512cd",
+    "text": "Biden wins the Popular Vote? [Category: Politics] [YES outcome]",
+    "question": "Biden wins the Popular Vote?",
+    "category": "Politics"
+  },
+  "94053993457114475555712405561795508926703709810252365187386727919511761724556": {
+    "token_id": "94053993457114475555712405561795508926703709810252365187386727919511761724556",
+    "condition_id": "0x9216286e80bbcd2c6fbb7a976666a945c87f7072733fcb0d1ffcb5a25655a81b",
+    "text": "Will Maine be the tipping point state? [Category: Politics] [YES outcome]",
+    "question": "Will Maine be the tipping point state?",
+    "category": "Politics"
+  },
+  "75951511934878014812323289513632732239356274541965522720897159608390126393735": {
+    "token_id": "75951511934878014812323289513632732239356274541965522720897159608390126393735",
+    "condition_id": "0xa923afcb8297e3ade170f2f8c088f3c277557fadef2c67054d72cc59f8504b2b",
+    "text": "Will a Republican win Pennsylvania Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Pennsylvania Presidential Election?",
+    "category": "Politics"
+  },
+  "91353054216890740335748868776987613119107738900235010213982466959971119689491": {
+    "token_id": "91353054216890740335748868776987613119107738900235010213982466959971119689491",
+    "condition_id": "0x381b7b45c22f94e13fac89bf754bf3611414d5f2e739eab374072125e1a716ee",
+    "text": "Will the Cowboys win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Cowboys win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "51052158557761079600060821198344572146234634299666295420235183322360518805559": {
+    "token_id": "51052158557761079600060821198344572146234634299666295420235183322360518805559",
+    "condition_id": "0xeb3cef6b7f43fcd35ce139e89c0b00cbc3a70a556c87ef934f8ca984208aaaa8",
+    "text": "Will the Lions win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Lions win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "33231049621270813819335185799713328543396359444961993528408684221075845829323": {
+    "token_id": "33231049621270813819335185799713328543396359444961993528408684221075845829323",
+    "condition_id": "0x289895f4217d5b6808f87c94584eb8fdb5db872b6b8fa00be2e79e99272dc673",
+    "text": "Will Anthony Richardson win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Anthony Richardson win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "110222417228270638383974743746762302792556220380554556504458115620557107501861": {
+    "token_id": "110222417228270638383974743746762302792556220380554556504458115620557107501861",
+    "condition_id": "0x399b3e538eae06db62ba0e166cf3772276dabf75862c938119d17d59684c7e40",
+    "text": "Will the Eagles win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Eagles win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "57404941070480647064900845338248984784706447590708819584066371103229440035635": {
+    "token_id": "57404941070480647064900845338248984784706447590708819584066371103229440035635",
+    "condition_id": "0x67e68c5eee8ac767dd1177de8c653b20642fee48f0f2a56d784e4856b130749d",
+    "text": "Will the 49ers win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the 49ers win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "66204394748674933284475452119221914900806504090361898522478023231718790798778": {
+    "token_id": "66204394748674933284475452119221914900806504090361898522478023231718790798778",
+    "condition_id": "0x42ca9db95b6df7587663308a7c275fdc2199a99b774366fb7b0f0550e6f563a0",
+    "text": "Will the Bengals win the AFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Bengals win the AFC Championship?",
+    "category": "Sports"
+  },
+  "10057237541929696185971116542487795282113077727880089878027691009747516185940": {
+    "token_id": "10057237541929696185971116542487795282113077727880089878027691009747516185940",
+    "condition_id": "0x96f6fb6567b5938fc3c2e75f9829d7287340b9581a9c4817b8bc0aff82e1c45f",
+    "text": "2024 Balance of Power: R Prez R Senate R House [Category: Politics] [YES outcome]",
+    "question": "2024 Balance of Power: R Prez R Senate R House",
+    "category": "Politics"
+  },
+  "43551079933191766952253358507925944870771237681854028658646238104575606747339": {
+    "token_id": "43551079933191766952253358507925944870771237681854028658646238104575606747339",
+    "condition_id": "0x40e783a12a83c36df40550c3f5a2433ba55a9cd312c31d808cc0c2c3ea747b1d",
+    "text": "Will Biden resign before the election? [Category: Politics] [YES outcome]",
+    "question": "Will Biden resign before the election?",
+    "category": "Politics"
+  },
+  "102212324177159111559158080141460196377074704989062060239146622426007303296068": {
+    "token_id": "102212324177159111559158080141460196377074704989062060239146622426007303296068",
+    "condition_id": "0x8ecbb7197fd88bd369950124296783c66ab12ea0d2ad970913b6ef28c8e67ca0",
+    "text": "Will Garrett Wilson be the top Fantasy Flex Player? [Category: Sports] [YES outcome]",
+    "question": "Will Garrett Wilson be the top Fantasy Flex Player?",
+    "category": "Sports"
+  },
+  "67987395510317512691808452556846479650140447681921231570668523107587946046381": {
+    "token_id": "67987395510317512691808452556846479650140447681921231570668523107587946046381",
+    "condition_id": "0x1092f6af37037a3539947b2052eeffff3608e2b68926340cab146369d3d2aac9",
+    "text": "Will a Democrat win Michigan Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Michigan Presidential Election?",
+    "category": "Politics"
+  },
+  "2393324137012810733641772397696399325645867049692814885572335029968473203800": {
+    "token_id": "2393324137012810733641772397696399325645867049692814885572335029968473203800",
+    "condition_id": "0xb685671ec5f12410f48006fad1ec60fa1a1e19f3a5ba09a81ab45b026821252d",
+    "text": "Fed increases interest rates by 25+ bps after December 2024 meeting? [Category: Economy] [YES outcome]",
+    "question": "Fed increases interest rates by 25+ bps after December 2024 meeting?",
+    "category": "Economy"
+  },
+  "77518378965462564313001429492317143172336530916873779936423468989259307889175": {
+    "token_id": "77518378965462564313001429492317143172336530916873779936423468989259307889175",
+    "condition_id": "0x8f57f5c38e16cf4a65d15a7d19df897d535782e51a40056abda9f68b06690f14",
+    "text": "Will the 49ers win the NFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the 49ers win the NFC Championship?",
+    "category": "Sports"
+  },
+  "107165618624473388028787482461617476483642008096741624485937939044069027162498": {
+    "token_id": "107165618624473388028787482461617476483642008096741624485937939044069027162498",
+    "condition_id": "0x972520d8ed44dcd71fff95b44e2593750d0e44323a5ccd2ce4bbbc540427bce9",
+    "text": "Will a candidate from another party win Michigan Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a candidate from another party win Michigan Presidential Election?",
+    "category": "Politics"
+  },
+  "75232223323346890156781804604762836524625042897001832568809401546391229244102": {
+    "token_id": "75232223323346890156781804604762836524625042897001832568809401546391229244102",
+    "condition_id": "0x75ba88e8d698ac926742aadee2abd94f2a82a3daa0058a9c615139494c769d0c",
+    "text": "Will Jordan Love win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Jordan Love win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "71430415501780528981858693916579753122145365682336047444167804228315828454731": {
+    "token_id": "71430415501780528981858693916579753122145365682336047444167804228315828454731",
+    "condition_id": "0x43905da101b102a1867fcb36b15b41b29282b568202f079152933e021cc2b8cf",
+    "text": "Global heat increase between 1.22\u00b0C and 1.24\u00b0C for 2024? [Category: Science] [YES outcome]",
+    "question": "Global heat increase between 1.22\u00b0C and 1.24\u00b0C for 2024?",
+    "category": "Science"
+  },
+  "66076733553536553304836701900193477979272365345475072182357965012957122046317": {
+    "token_id": "66076733553536553304836701900193477979272365345475072182357965012957122046317",
+    "condition_id": "0xbd3ed58e5472776516683cce181509b05bd07ef687997795d1cfb70fa7c4bc55",
+    "text": "Will Bitcoin hit $250k in 2024? [Category: Crypto] [YES outcome]",
+    "question": "Will Bitcoin hit $250k in 2024?",
+    "category": "Crypto"
+  },
+  "11928031020017926253137048266138060552390028298132003645967202754777540403459": {
+    "token_id": "11928031020017926253137048266138060552390028298132003645967202754777540403459",
+    "condition_id": "0x78e20dcb15d578061a6df0c5014d66cc21244bad6848336f3513493c65cf09c1",
+    "text": "2024 Balance of Power: R Prez, R Senate, D House [Category: Politics] [YES outcome]",
+    "question": "2024 Balance of Power: R Prez, R Senate, D House",
+    "category": "Politics"
+  },
+  "86514563650706195095515261507888352302856274648870425947777358797038409929767": {
+    "token_id": "86514563650706195095515261507888352302856274648870425947777358797038409929767",
+    "condition_id": "0x004e19d419d05dd366793689ce2af457d51bc921d9da4af867de09f0864a4305",
+    "text": "Fed decreases interest rates by 50 bps after December 2024 meeting? [Category: Economy] [YES outcome]",
+    "question": "Fed decreases interest rates by 50 bps after December 2024 meeting?",
+    "category": "Economy"
+  },
+  "3760259282641341401139581937609668002717940820088389647026890584246573710717": {
+    "token_id": "3760259282641341401139581937609668002717940820088389647026890584246573710717",
+    "condition_id": "0x95effab3f01f856708b93dd1e9cc92c8774eba9e387c49128007d6a19f6b035c",
+    "text": "Will the Saints win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Saints win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "98530852976572810642537081503290735812837188297744380157757156848456581539250": {
+    "token_id": "98530852976572810642537081503290735812837188297744380157757156848456581539250",
+    "condition_id": "0xe80491f1675238b1e1bd3705520d1fe2539ecfacb42716f5558b10b6efa95d91",
+    "text": "Will the Rams win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Rams win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "50107902083284751016545440401692219408556171231461347396738260657226842527986": {
+    "token_id": "50107902083284751016545440401692219408556171231461347396738260657226842527986",
+    "condition_id": "0x1ab07117f9f698f28490f57754d6fe5309374230c95867a7eba572892a11d710",
+    "text": "Will 'Inside Out 2' gross most in 2024? [Category: Entertainment] [YES outcome]",
+    "question": "Will 'Inside Out 2' gross most in 2024?",
+    "category": "Entertainment"
+  },
+  "10543796747987526217726719445503113036676541789761379932363198740436075720933": {
+    "token_id": "10543796747987526217726719445503113036676541789761379932363198740436075720933",
+    "condition_id": "0xeb52004d81a0458910b98afbab213f85e488d0046a2241ab5e70c7b3aa2dee23",
+    "text": "Will the Bills win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Bills win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "11015470973684177829729219287262166995141465048508201953575582100565462316088": {
+    "token_id": "11015470973684177829729219287262166995141465048508201953575582100565462316088",
+    "condition_id": "0x26ee82bee2493a302d21283cb578f7e2fff2dd15743854f53034d12420863b55",
+    "text": "Which party wins 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Which party wins 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "10121150820228421248893179951676281814158596154979528998074907576296371458438": {
+    "token_id": "10121150820228421248893179951676281814158596154979528998074907576296371458438",
+    "condition_id": "0xbce0ff6f8ee396ec39e76c8b60d747272e8bf4bd65f31d0e131b64aceb0be3b5",
+    "text": "Will 'Deadpool 3' gross most in 2024? [Category: Entertainment] [YES outcome]",
+    "question": "Will 'Deadpool 3' gross most in 2024?",
+    "category": "Entertainment"
+  },
+  "12203140779891242290728020935437370986120546911063853958430847443020756373734": {
+    "token_id": "12203140779891242290728020935437370986120546911063853958430847443020756373734",
+    "condition_id": "0x117e99b2f41a10df9e5d1df85e05f96fac445976ab5da2cf2ec968660bb281ae",
+    "text": "GOP wins popular vote by 4-5%? [Category: Politics] [YES outcome]",
+    "question": "GOP wins popular vote by 4-5%?",
+    "category": "Politics"
+  },
+  "53980625471547310051004778241938112282010815940675231749571892348038485533306": {
+    "token_id": "53980625471547310051004778241938112282010815940675231749571892348038485533306",
+    "condition_id": "0xd280ef888530239f255b3efc0487a9f4d28039d24f50d8080a51a75927bc1a3a",
+    "text": "Will the Bears win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Bears win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "11427278216799810577769153609711990866150203173170209231780353599584598541216": {
+    "token_id": "11427278216799810577769153609711990866150203173170209231780353599584598541216",
+    "condition_id": "0xab6797800d382aa14617453d1f106ef94cae69ffe0cc1a2b35c5eb3a531ac8a1",
+    "text": "Will LSU win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will LSU win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "12705656510000114998067127645536006511194946121953612220818539125161885668427": {
+    "token_id": "12705656510000114998067127645536006511194946121953612220818539125161885668427",
+    "condition_id": "0x438a3a56964f33c393d34b0e57f709bc1721a679c962e81642e5487930e4dc96",
+    "text": "Will another candidate be D-nom for VP on Election Day? [Category: Politics] [YES outcome]",
+    "question": "Will another candidate be D-nom for VP on Election Day?",
+    "category": "Politics"
+  },
+  "111469254702948886973413200199735535963125121483104591011110787241430208916076": {
+    "token_id": "111469254702948886973413200199735535963125121483104591011110787241430208916076",
+    "condition_id": "0x0f1a5b86948292aa2e6195e00d036d0e1a13038c0b5337e00d0714b7ea9667dc",
+    "text": "Will Tua Tagovailoa win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Tua Tagovailoa win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "50909747324614063474238486320988554604590979112691512595773207449364069073614": {
+    "token_id": "50909747324614063474238486320988554604590979112691512595773207449364069073614",
+    "condition_id": "0x534da3946b8da84a8687e346e735fcc1d7c7078c057b1a7769cb9991b3e67968",
+    "text": "Will Gavin Newsom win the popular vote in the 2024 Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will Gavin Newsom win the popular vote in the 2024 Presidential Election?",
+    "category": "Politics"
+  },
+  "59180925160896804791762566914266269030914631466155047027594060893496682154519": {
+    "token_id": "59180925160896804791762566914266269030914631466155047027594060893496682154519",
+    "condition_id": "0x291fdff65865b39477b7fdad7a8cffb89dfc9387ee65e65b403a9f9dcc2d2bc4",
+    "text": "GOP wins popular vote by 0-1%? [Category: Politics] [YES outcome]",
+    "question": "GOP wins popular vote by 0-1%?",
+    "category": "Politics"
+  },
+  "105184348976114274990683066782141725521410345945023353024053078695238621958578": {
+    "token_id": "105184348976114274990683066782141725521410345945023353024053078695238621958578",
+    "condition_id": "0xbb01eefb24a38a9aa1921ec168d3049e7374b28a2540937d06b3ff2524d66627",
+    "text": "Will a Republican win Michigan Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Michigan Presidential Election?",
+    "category": "Politics"
+  },
+  "72373922484601612837855188905332325479292726362975414708210444785555968287015": {
+    "token_id": "72373922484601612837855188905332325479292726362975414708210444785555968287015",
+    "condition_id": "0xe4a9b98237a29e778ac5717e3d29220bb2f0c0370e8e3436d4a277853556355f",
+    "text": "Fed decreases interest rates by 50 bps after November 2024 meeting? [Category: Economy] [YES outcome]",
+    "question": "Fed decreases interest rates by 50 bps after November 2024 meeting?",
+    "category": "Economy"
+  },
+  "46618163772637644984203254728698911374193986248626115084578931959682586725582": {
+    "token_id": "46618163772637644984203254728698911374193986248626115084578931959682586725582",
+    "condition_id": "0x76dbb81a9fd937efa736aa23e6c0eb33aaf0f2ca4aa6c06da1d5529ed236ebfb",
+    "text": "Will Tim Walz be D-nom for VP on Election Day? [Category: Politics] [YES outcome]",
+    "question": "Will Tim Walz be D-nom for VP on Election Day?",
+    "category": "Politics"
+  },
+  "35768725149562192699070006303662567010406472338668143689111965491738000793190": {
+    "token_id": "35768725149562192699070006303662567010406472338668143689111965491738000793190",
+    "condition_id": "0x260fd9d6b10746909a26c2af7a68b409f757c95a07dc57ddd480774a36c8399b",
+    "text": "Will Fed cut interest rates 3 times in 2024? [Category: Economy] [YES outcome]",
+    "question": "Will Fed cut interest rates 3 times in 2024?",
+    "category": "Economy"
+  },
+  "46691825198205945656026007456894335541255549782914167592137952460021454784449": {
+    "token_id": "46691825198205945656026007456894335541255549782914167592137952460021454784449",
+    "condition_id": "0xac7162f96876ea602d984de6f9800b8a4b8a45897e798a7630d9e004ae5b9a0b",
+    "text": "Will a Republican win Arizona US Senate Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Arizona US Senate Election?",
+    "category": "Politics"
+  },
+  "81992957680273202274683570085455176988374834002875491685282713603860362406617": {
+    "token_id": "81992957680273202274683570085455176988374834002875491685282713603860362406617",
+    "condition_id": "0xf4078ddd084c8979c81f1ac4674d5e846b87a13b7f568bdd402296181e83b4d9",
+    "text": "Will Biden pardon SBF? [Category: Politics] [YES outcome]",
+    "question": "Will Biden pardon SBF?",
+    "category": "Politics"
+  },
+  "99693453180573360817239647658551491302597637631928074955157125575801041271704": {
+    "token_id": "99693453180573360817239647658551491302597637631928074955157125575801041271704",
+    "condition_id": "0x2a3a29b57597777e5d2941c419716b02a7b8c43b5c19c4ac746ae2d9c720cbe1",
+    "text": "No change in Fed interest rates after 2024 November meeting? [Category: Economy] [YES outcome]",
+    "question": "No change in Fed interest rates after 2024 November meeting?",
+    "category": "Economy"
+  },
+  "101855562831265107203442419096879190899859816025360403919576363159629903511162": {
+    "token_id": "101855562831265107203442419096879190899859816025360403919576363159629903511162",
+    "condition_id": "0x1b43e21dc696e34154ba0d0a9b351264a86d773bf381ffd0eb5d2124ee783b33",
+    "text": "House control after 2024 election? [Category: Politics] [YES outcome]",
+    "question": "House control after 2024 election?",
+    "category": "Politics"
+  },
+  "17908536516262731587454173816637772041397159920079872884034587087949686470273": {
+    "token_id": "17908536516262731587454173816637772041397159920079872884034587087949686470273",
+    "condition_id": "0x742aae6cb21426e13f44c569870dc7550b7bf61121abec0b65ac4edb60464a6f",
+    "text": "Will the Saints win the NFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Saints win the NFC Championship?",
+    "category": "Sports"
+  },
+  "109001462646825307388783631319373310122188131647796396445827892888263007422276": {
+    "token_id": "109001462646825307388783631319373310122188131647796396445827892888263007422276",
+    "condition_id": "0xa405336b05bc3d7459f6fbb9a334865842a9c2b9a50c0a6abaf61621b9d828d6",
+    "text": "Will Josh Allen be the top Fantasy Quarterback? [Category: Sports] [YES outcome]",
+    "question": "Will Josh Allen be the top Fantasy Quarterback?",
+    "category": "Sports"
+  },
+  "21361900777589377718736958851458070951113045854715846659509858292415617355680": {
+    "token_id": "21361900777589377718736958851458070951113045854715846659509858292415617355680",
+    "condition_id": "0x8965a43e19c3f5ca3e3f340ed14a18c0b47ec71283e00db546c9de0722bb0854",
+    "text": "Will Aaron Rodgers win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Aaron Rodgers win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "66607548713081251806601291927119836760338741812288253627031518165195374248251": {
+    "token_id": "66607548713081251806601291927119836760338741812288253627031518165195374248251",
+    "condition_id": "0x5d4e8d237be6d11bb1c5630e41309a25620ed5c649772d9a26ae895beaa724dc",
+    "text": "GOP wins popular vote by 7% or more? [Category: Politics] [YES outcome]",
+    "question": "GOP wins popular vote by 7% or more?",
+    "category": "Politics"
+  },
+  "19337374759421497785155425275583690354137733202537043757234748082298776867304": {
+    "token_id": "19337374759421497785155425275583690354137733202537043757234748082298776867304",
+    "condition_id": "0xe05a262633ef0c31792b22f77906c539a0d9437ab7196dc0bc565539b7f6bdcd",
+    "text": "Democrats win popular vote by 2-3%? [Category: Politics] [YES outcome]",
+    "question": "Democrats win popular vote by 2-3%?",
+    "category": "Politics"
+  },
+  "108265585758863342384766424486227342889408020086746037233363322123595663352205": {
+    "token_id": "108265585758863342384766424486227342889408020086746037233363322123595663352205",
+    "condition_id": "0x8dc0c564ae1486c731438d78ae019dd2b7ea7cfd12913f0ac980e06136afcbc8",
+    "text": "Will Tyreek Hill be the top Fantasy Flex Player? [Category: Sports] [YES outcome]",
+    "question": "Will Tyreek Hill be the top Fantasy Flex Player?",
+    "category": "Sports"
+  },
+  "7689215271552383133483004508832984274573710042218778913722716721310897959707": {
+    "token_id": "7689215271552383133483004508832984274573710042218778913722716721310897959707",
+    "condition_id": "0xeb12fb23c56c8d690c51f6b2501c62fa0dcf25f8af04c0f92c68f94167a1f43b",
+    "text": "Will the Packers win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Packers win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "7616200168087679909520446105950285742392284096432045522969789820944838280581": {
+    "token_id": "7616200168087679909520446105950285742392284096432045522969789820944838280581",
+    "condition_id": "0xfdcd333ff42c2908a1c1ba56435e9de40969c32c1e83a1c2bc76352a74c5c0d8",
+    "text": "2024 presidential election: GOP wins by 65-104 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: GOP wins by 65-104",
+    "category": "Politics"
+  },
+  "18070149317485211603027771306394042764814941764963048490397639686705860842455": {
+    "token_id": "18070149317485211603027771306394042764814941764963048490397639686705860842455",
+    "condition_id": "0xd2850d5a4e221848fb7fe1b0d09259a516653bf5f59de50ad76520e9a70d56da",
+    "text": "Will the Buccaneers win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Buccaneers win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "11567814642074862867749936284471148455273423515322037976014884555300111576108": {
+    "token_id": "11567814642074862867749936284471148455273423515322037976014884555300111576108",
+    "condition_id": "0xa11a9c66032cbe8c607bf1b21591f65dfee9d5eb65d73cc8ad5009c1f9826fa3",
+    "text": "Fed decreases interest rates by 25 bps after December 2024 meeting? [Category: Economy] [YES outcome]",
+    "question": "Fed decreases interest rates by 25 bps after December 2024 meeting?",
+    "category": "Economy"
+  },
+  "40486845757649539115541074089071083804261584217856121899380374870077656913924": {
+    "token_id": "40486845757649539115541074089071083804261584217856121899380374870077656913924",
+    "condition_id": "0x71da2bbc04a7eae0d8ef739c17025d85917c0ea7db07646b6400a4f6ccb9f304",
+    "text": "No change in Fed interest rates after December 2024 meeting? [Category: Economy] [YES outcome]",
+    "question": "No change in Fed interest rates after December 2024 meeting?",
+    "category": "Economy"
+  },
+  "38241327326581095189039064776393236848845483150993100025190572223789105919458": {
+    "token_id": "38241327326581095189039064776393236848845483150993100025190572223789105919458",
+    "condition_id": "0xd33c1b67dd81a5d13f9a557088c49d8dcde6b1ecb54a2d29bcb9b7cb7267c32d",
+    "text": "Will Michigan win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will Michigan win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "34014631018780939568097313575560014481162170283396795113650279780110425245053": {
+    "token_id": "34014631018780939568097313575560014481162170283396795113650279780110425245053",
+    "condition_id": "0xb0a06b05d49947a302d0c3648add3b6d6660380de6bdb6b79f0007f18daf3adb",
+    "text": "2024 presidential election: GOP wins by 215+ [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: GOP wins by 215+",
+    "category": "Politics"
+  },
+  "79556139809841349420301551241715482537220654226088690035598996063965375186918": {
+    "token_id": "79556139809841349420301551241715482537220654226088690035598996063965375186918",
+    "condition_id": "0xe7904e3d8b0f47371fb5826fd7349f85a9a0cff8de5486998d42482112339de6",
+    "text": "Will the Cowboys win the NFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Cowboys win the NFC Championship?",
+    "category": "Sports"
+  },
+  "96785400097122656191742403928095680514421833731580889721010938449199098076493": {
+    "token_id": "96785400097122656191742403928095680514421833731580889721010938449199098076493",
+    "condition_id": "0x4216ea4eec58946ea322cdf9e7d407e8e6f6793190aca3b2954bebf164b2411d",
+    "text": "Neither a Democrat nor a Republican wins popular vote? [Category: Politics] [YES outcome]",
+    "question": "Neither a Democrat nor a Republican wins popular vote?",
+    "category": "Politics"
+  },
+  "14712823303621144760886704419255228342429814293553835194463290011249869453015": {
+    "token_id": "14712823303621144760886704419255228342429814293553835194463290011249869453015",
+    "condition_id": "0xcf2bc0cf3da098898e500fbc56df22e9d1e18fdfa87b448f79efb805f1d2a1ba",
+    "text": "Will Oklahoma win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will Oklahoma win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "54747416343018138268966796464100163199110923943240209772404838622120941650306": {
+    "token_id": "54747416343018138268966796464100163199110923943240209772404838622120941650306",
+    "condition_id": "0x0d6e93bb2d55968edbbd7355d00cc1c5749cddae0d526c1f8e6bdb55ace99900",
+    "text": "GOP wins popular vote by 2-3%? [Category: Politics] [YES outcome]",
+    "question": "GOP wins popular vote by 2-3%?",
+    "category": "Politics"
+  },
+  "29388278580184605445540207251713907271711118522608058065018507919881171572914": {
+    "token_id": "29388278580184605445540207251713907271711118522608058065018507919881171572914",
+    "condition_id": "0xbe14bea177600f534d0e9a863ecf69122171bb90444a0d6c8cb4f7d1e8cd3d59",
+    "text": "Will Ethereum hit $10k in 2024? [Category: Crypto] [YES outcome]",
+    "question": "Will Ethereum hit $10k in 2024?",
+    "category": "Crypto"
+  },
+  "8447915118859648527472592877792890354557333272690289360702446760497242005477": {
+    "token_id": "8447915118859648527472592877792890354557333272690289360702446760497242005477",
+    "condition_id": "0xa78d39676ef44a148c1b847597eb7fb318649b91cb4ff16af97909e4b4ede082",
+    "text": "Favorite to win on Polymarket day before election? [Category: Politics] [YES outcome]",
+    "question": "Favorite to win on Polymarket day before election?",
+    "category": "Politics"
+  },
+  "101669189743438912873361127612589311253202068943959811456820079057046819967115": {
+    "token_id": "101669189743438912873361127612589311253202068943959811456820079057046819967115",
+    "condition_id": "0x9d1f0296f3a016727193d2b45704e0debc3b8048fe0715f8bb1e91550d321872",
+    "text": "Will Fed cut interest rates 4 times in 2024? [Category: Economy] [YES outcome]",
+    "question": "Will Fed cut interest rates 4 times in 2024?",
+    "category": "Economy"
+  },
+  "22468503128713913916806076533167818492625094010808408807012231794824731008631": {
+    "token_id": "22468503128713913916806076533167818492625094010808408807012231794824731008631",
+    "condition_id": "0x1d13fe684aff966b48c1f14778a8aa46294e94405238aaa496c526968268b6a2",
+    "text": "Will Patrick Mahomes win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Patrick Mahomes win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "104418202650000003466724307383826189852812346194106831978945737070954365347089": {
+    "token_id": "104418202650000003466724307383826189852812346194106831978945737070954365347089",
+    "condition_id": "0xb17631413f217b33763f011a61990dd420f760af13bba6cdccd68c52b2b72d4e",
+    "text": "Will a Democrat win Arizona US Senate Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Arizona US Senate Election?",
+    "category": "Politics"
+  },
+  "107390049390358131192470382018885046753276046579323899532999151577054727204097": {
+    "token_id": "107390049390358131192470382018885046753276046579323899532999151577054727204097",
+    "condition_id": "0x2a9c818392b7e213bebe13ef773d2ecfe637221dbe04c4b9f47a3ce890f1cf4c",
+    "text": "2024 presidential election: GOP wins by 35-64 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: GOP wins by 35-64",
+    "category": "Politics"
+  },
+  "47297524982498421283461933358535593734005022410217129184450501581717779411296": {
+    "token_id": "47297524982498421283461933358535593734005022410217129184450501581717779411296",
+    "condition_id": "0x13d3e3531ecc4d6096ffe53c9a34f73ea56ed9b4404f87366e708d3d3a7be699",
+    "text": "Will Fed cut interest rates 5 times in 2024? [Category: Economy] [YES outcome]",
+    "question": "Will Fed cut interest rates 5 times in 2024?",
+    "category": "Economy"
+  },
+  "91932832596060744099888677327122616645772550393074504705362648525145533535677": {
+    "token_id": "91932832596060744099888677327122616645772550393074504705362648525145533535677",
+    "condition_id": "0x475e0fd32b211c0cfe6755638efceba2373d01a7224c7750f77f978db104f639",
+    "text": "2024 presidential election: GOP wins by 105-154 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: GOP wins by 105-154",
+    "category": "Politics"
+  },
+  "10874846387975190407444713373765853114527145924436779240006871443341352408992": {
+    "token_id": "10874846387975190407444713373765853114527145924436779240006871443341352408992",
+    "condition_id": "0x7606802127355512c8f8ff9c70ef27a2717a8554374d84452de4c7d28147338d",
+    "text": "Will a Republican win Georgia Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Georgia Presidential Election?",
+    "category": "Politics"
+  },
+  "98758685551362251798751604021121968501566060113612180716295660305468647537764": {
+    "token_id": "98758685551362251798751604021121968501566060113612180716295660305468647537764",
+    "condition_id": "0xa20bb3917e90f70e503d00387741ae8e65470de61e39ad46c09df3eafd599d4b",
+    "text": "Will the Vikings win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Vikings win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "65899342545197974464674790375677332783836387984276968232607993321656475710546": {
+    "token_id": "65899342545197974464674790375677332783836387984276968232607993321656475710546",
+    "condition_id": "0x0e73cc6c999f4fc1e3692905fc99fe7eb98beb16a284c4be762e3e64c42d1544",
+    "text": "Will the Ravens win Super Bowl 2025? [Category: Sports] [YES outcome]",
+    "question": "Will the Ravens win Super Bowl 2025?",
+    "category": "Sports"
+  },
+  "46167212842991355763663772182129837537545167602810511850370601149970675289312": {
+    "token_id": "46167212842991355763663772182129837537545167602810511850370601149970675289312",
+    "condition_id": "0xbb958c943dab682a60d421effb917b6b66760905c23e58efd22699f278185444",
+    "text": "2024 Balance of Power: R Prez, D Senate, R House [Category: Politics] [YES outcome]",
+    "question": "2024 Balance of Power: R Prez, D Senate, R House",
+    "category": "Politics"
+  },
+  "71018617251430864046344590528333955328584101403098703990890731434467520361394": {
+    "token_id": "71018617251430864046344590528333955328584101403098703990890731434467520361394",
+    "condition_id": "0x272461ac34da7a85f4c7f6cad291b10b9268061e5813cad8c9cb9897cf0d94a9",
+    "text": "2024 presidential election: Democrats win by 5-14 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: Democrats win by 5-14",
+    "category": "Politics"
+  },
+  "9624177223014410556848506761544749747785444944333251658077262437713935652301": {
+    "token_id": "9624177223014410556848506761544749747785444944333251658077262437713935652301",
+    "condition_id": "0x8ec05d89f299aed5c6513939dc5f2067ac6e7b3139d3671a54d784a709cf79ad",
+    "text": "Harris-Walz Democratic ticket on election day? [Category: Politics] [YES outcome]",
+    "question": "Harris-Walz Democratic ticket on election day?",
+    "category": "Politics"
+  },
+  "41028143777290867349708171797440746342137065051387125609638752774138340446754": {
+    "token_id": "41028143777290867349708171797440746342137065051387125609638752774138340446754",
+    "condition_id": "0x2c2dc19efecfd9943c54e116f3a07f57026d3f38ad7c6e0019c628baceb5bc14",
+    "text": "Will USDC flip USDT in market cap in 2024? [Category: Crypto] [YES outcome]",
+    "question": "Will USDC flip USDT in market cap in 2024?",
+    "category": "Crypto"
+  },
+  "22811156622772246927379314532791131581149105511872861362055243423465705837015": {
+    "token_id": "22811156622772246927379314532791131581149105511872861362055243423465705837015",
+    "condition_id": "0xdd2f4921a562fc4d18c0bde327d2a9315352a3ba4137656112b9b1770fd1f2a9",
+    "text": "Will a Republican win Nevada Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Nevada Presidential Election?",
+    "category": "Politics"
+  },
+  "6958226261986895321894171664134250727726877795295745054057860512934310352857": {
+    "token_id": "6958226261986895321894171664134250727726877795295745054057860512934310352857",
+    "condition_id": "0x23df7c359c5641fceed71bd62edda6a4a4997b66566d137a5e639434c8444b2c",
+    "text": "2024 presidential election: Democrats win by 105-154 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: Democrats win by 105-154",
+    "category": "Politics"
+  },
+  "70444212281991590599094514137034136177745706304387610267344349187424422414774": {
+    "token_id": "70444212281991590599094514137034136177745706304387610267344349187424422414774",
+    "condition_id": "0xb09684e11fb40f40cfb2fec4a8e08fe2b021a82b0803756a90f04e1364efa94f",
+    "text": "Ethereum all time high in Q4 2024? [Category: Crypto] [YES outcome]",
+    "question": "Ethereum all time high in Q4 2024?",
+    "category": "Crypto"
+  },
+  "26467116663846994870475916821595134543785054309936606892436619329769148704228": {
+    "token_id": "26467116663846994870475916821595134543785054309936606892436619329769148704228",
+    "condition_id": "0xd3f732bba5fc2e780d9cb5fa897c03014fadbcf4d1da1fac58f54ed1b0352141",
+    "text": "Will the Raiders win the AFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Raiders win the AFC Championship?",
+    "category": "Sports"
+  },
+  "30129433382671659617443775893233310525995405130386793481517058306210847037287": {
+    "token_id": "30129433382671659617443775893233310525995405130386793481517058306210847037287",
+    "condition_id": "0xccece58bebd2d498802da6e5dec1251bf9529eca4cfce7d43abd39ecd7ab4cd3",
+    "text": "Will Biden pardon Trump? [Category: Politics] [YES outcome]",
+    "question": "Will Biden pardon Trump?",
+    "category": "Politics"
+  },
+  "101420809795991050463357193190190217433473974978220642065802556532442264744912": {
+    "token_id": "101420809795991050463357193190190217433473974978220642065802556532442264744912",
+    "condition_id": "0xff5c1e73e31ad495136fcafce90710a3a1771a96f07116db60aeaae095c0ec29",
+    "text": "2024 presidential election: Democrats win by 215+ [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: Democrats win by 215+",
+    "category": "Politics"
+  },
+  "28750260149516156970511939481372188106730151541547457340588851935046819156336": {
+    "token_id": "28750260149516156970511939481372188106730151541547457340588851935046819156336",
+    "condition_id": "0x3bf616ac5ec8252bb7755bc5f686b5c3d22b6413e2f128a57a9dfddf5f024544",
+    "text": "Will Virginia be the tipping point state? [Category: Politics] [YES outcome]",
+    "question": "Will Virginia be the tipping point state?",
+    "category": "Politics"
+  },
+  "71266923597682191255015907302921683041435419763570474059916757401212183782544": {
+    "token_id": "71266923597682191255015907302921683041435419763570474059916757401212183782544",
+    "condition_id": "0xe2a9262148bec59cde1581988431069d083faeee3361779c4b0aa265138f7c44",
+    "text": "Will a Democrat win Georgia Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Georgia Presidential Election?",
+    "category": "Politics"
+  },
+  "63775998971536686202924577393689977829942546291218090292399569090154779758410": {
+    "token_id": "63775998971536686202924577393689977829942546291218090292399569090154779758410",
+    "condition_id": "0xaa69f9c948b8a162eb305285bf31a581868c23a289573889b27361726c213b64",
+    "text": "Will another movie gross most in 2024? [Category: Entertainment] [YES outcome]",
+    "question": "Will another movie gross most in 2024?",
+    "category": "Entertainment"
+  },
+  "99471813535371398600245073657183052216502130825457812381881800796818057444177": {
+    "token_id": "99471813535371398600245073657183052216502130825457812381881800796818057444177",
+    "condition_id": "0x44c4e98fd06a0d02e7c30b923dc726b87a3693fe6a0c8089c523c461806d863d",
+    "text": "Will C.J. Stroud win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will C.J. Stroud win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "24618225841968477217432333518838765845036142775636766972965817323452358467520": {
+    "token_id": "24618225841968477217432333518838765845036142775636766972965817323452358467520",
+    "condition_id": "0x90d789157d980de1ca67489122f9d7892a83da4d5185ee16222aff1204914596",
+    "text": "Will another driver win the 2024 F1 season? [Category: Sports] [YES outcome]",
+    "question": "Will another driver win the 2024 F1 season?",
+    "category": "Sports"
+  },
+  "30465792993528953335367453136413378109766122086938052710240805365351441263460": {
+    "token_id": "30465792993528953335367453136413378109766122086938052710240805365351441263460",
+    "condition_id": "0xfd87909158fa8139b8a11f3ae2af8f68f42d5fa7a17e892b984e43b76ae51dac",
+    "text": "Tim Walz replaced as Democratic VP nominee? [Category: Politics] [YES outcome]",
+    "question": "Tim Walz replaced as Democratic VP nominee?",
+    "category": "Politics"
+  },
+  "46560486602505785180080144532720597403648520870130957639521999843252177754063": {
+    "token_id": "46560486602505785180080144532720597403648520870130957639521999843252177754063",
+    "condition_id": "0x8137f09abc8023758740ee1cfc5253ff2a7fd40e57029fe7721b78b19d8bc482",
+    "text": "Will the Bears win the NFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Bears win the NFC Championship?",
+    "category": "Sports"
+  },
+  "103931010919995781828164224161268088895809185562670781148950698492640674977981": {
+    "token_id": "103931010919995781828164224161268088895809185562670781148950698492640674977981",
+    "condition_id": "0x3353f0005d273aa63e233aa107e71cf8d95744c6209e8e0c857d6555768190f2",
+    "text": "2024 Balance of Power: D Prez, D Senate, R House [Category: Politics] [YES outcome]",
+    "question": "2024 Balance of Power: D Prez, D Senate, R House",
+    "category": "Politics"
+  },
+  "24480816455214308229531096762668154996473106215947694133124367155661709295355": {
+    "token_id": "24480816455214308229531096762668154996473106215947694133124367155661709295355",
+    "condition_id": "0xbe3afc95f538c106696a2b76a1eb6e2191b622b224ae9d888343ade752c634f1",
+    "text": "2024 presidential election: Democrats win by 15-34 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: Democrats win by 15-34",
+    "category": "Politics"
+  },
+  "79086902367494146250288799827118631783807623864486807335302788365567801974260": {
+    "token_id": "79086902367494146250288799827118631783807623864486807335302788365567801974260",
+    "condition_id": "0x768eb43d1b7a745e0df1bb6050ab54aa3975fbbde6e23f4aa04cb527f5ffed2e",
+    "text": "2024 presidential election: GOP wins by 1-4 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: GOP wins by 1-4",
+    "category": "Politics"
+  },
+  "25474014705297439146444713942104010240322868585952420291288261803408266882449": {
+    "token_id": "25474014705297439146444713942104010240322868585952420291288261803408266882449",
+    "condition_id": "0x773f3ca26bdf685da92d2a8a701dd98e4e8b46e0b5366cf09aed9eb8fb6fc189",
+    "text": "Will a Republican win North Carolina Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win North Carolina Presidential Election?",
+    "category": "Politics"
+  },
+  "84759855875787376013070966191829270380532139665613953557972586200540529795281": {
+    "token_id": "84759855875787376013070966191829270380532139665613953557972586200540529795281",
+    "condition_id": "0x9c9c47de9c871b6cfbae8956f3586f09ae131c44f73e478bc824c106489dd930",
+    "text": "2024 presidential election: Democrats win by 0-4 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: Democrats win by 0-4",
+    "category": "Politics"
+  },
+  "88735821972129906164249182027715270538559976912140139667598209541927628533669": {
+    "token_id": "88735821972129906164249182027715270538559976912140139667598209541927628533669",
+    "condition_id": "0xfcb031253ecf0d6b9f75e3630dee3033ab6c8ee9cce0a3e47285b0d15d717b32",
+    "text": "2024 presidential election: Democrats win by 65-104 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: Democrats win by 65-104",
+    "category": "Politics"
+  },
+  "72044801958932376213942522155627434496146777860490700435168293831379994699414": {
+    "token_id": "72044801958932376213942522155627434496146777860490700435168293831379994699414",
+    "condition_id": "0xf5875410202b3545491774ab5e712a6e05a0ffe780c52270cc8d70cc95164411",
+    "text": "[Single Market] Will Joe Biden win the U.S. 2024 Democratic presidential nomination? [Category: Politics] [YES outcome]",
+    "question": "[Single Market] Will Joe Biden win the U.S. 2024 Democratic presidential nomination?",
+    "category": "Politics"
+  },
+  "13366137421334016636142442820192272355471668053089102017807634167636304220839": {
+    "token_id": "13366137421334016636142442820192272355471668053089102017807634167636304220839",
+    "condition_id": "0xe4aeb3d4275cd97428217a951f5318b952ba8321a62acaa44bde6663518c6dd2",
+    "text": "Will Travis Etienne Jr. be the top Fantasy Running Back? [Category: Sports] [YES outcome]",
+    "question": "Will Travis Etienne Jr. be the top Fantasy Running Back?",
+    "category": "Sports"
+  },
+  "12492345628750728733117864804710670673000799233202537945402703429199967167327": {
+    "token_id": "12492345628750728733117864804710670673000799233202537945402703429199967167327",
+    "condition_id": "0xfefbd6fa16a276839af9d87e7e649b0ccc90a2b36e63b5e48f50fb8da76bcb33",
+    "text": "Will a Republican win Virginia Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Virginia Presidential Election?",
+    "category": "Politics"
+  },
+  "104989418141902977318382721004248958955338712045027072570110453217161182408132": {
+    "token_id": "104989418141902977318382721004248958955338712045027072570110453217161182408132",
+    "condition_id": "0x9fce1292bea6748addd9a96632ab7455f64028671816e964a692686573079574",
+    "text": "Will China invade Taiwan in 2024? [Category: Politics] [YES outcome]",
+    "question": "Will China invade Taiwan in 2024?",
+    "category": "Politics"
+  },
+  "64972410044896218211047269420581789917870192018252181026286744947120013986348": {
+    "token_id": "64972410044896218211047269420581789917870192018252181026286744947120013986348",
+    "condition_id": "0x4d848bab2da79b9ff7f2b2b0d9ddb048bb1fb47e9f782887f16e91d27de41279",
+    "text": "Will a Republican win Arizona Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Arizona Presidential Election?",
+    "category": "Politics"
+  },
+  "35629444424911540854033833805581282525894865134562240313992824142991452360546": {
+    "token_id": "35629444424911540854033833805581282525894865134562240313992824142991452360546",
+    "condition_id": "0x007915eaf3a6c3c7f2c28a3f4984e257b69489defc4e2db834a1418ad9b433f6",
+    "text": "2024 Balance of Power: D Prez, R Senate, R House [Category: Politics] [YES outcome]",
+    "question": "2024 Balance of Power: D Prez, R Senate, R House",
+    "category": "Politics"
+  },
+  "110572048196196721190273423098212132965212115169135445849838734204111986977975": {
+    "token_id": "110572048196196721190273423098212132965212115169135445849838734204111986977975",
+    "condition_id": "0xbee3dba85ba4622e2e1c215adcbdc8f012dc59f904c52ac539db7ad26b20b6d3",
+    "text": "2024 Balance of Power: D Prez, R Senate, D House [Category: Politics] [YES outcome]",
+    "question": "2024 Balance of Power: D Prez, R Senate, D House",
+    "category": "Politics"
+  },
+  "24955337756914261661508233620512576587715850405247496490991734457603899304384": {
+    "token_id": "24955337756914261661508233620512576587715850405247496490991734457603899304384",
+    "condition_id": "0xb99eff637eb58e40828b38d07e3fc60d5dbefed78abcd50599e2e86f4a6930ae",
+    "text": "Will Kamala Harris drop out of presidential race? [Category: Politics] [YES outcome]",
+    "question": "Will Kamala Harris drop out of presidential race?",
+    "category": "Politics"
+  },
+  "23879627426961662812922169694268707374662971136118079896087093103802667054172": {
+    "token_id": "23879627426961662812922169694268707374662971136118079896087093103802667054172",
+    "condition_id": "0xf4640cd41c414f694cd33e049e0c58092eea15bb7e463af0124695e46442742d",
+    "text": "2024 Balance of Power: D Prez, D Senate, D House [Category: Politics] [YES outcome]",
+    "question": "2024 Balance of Power: D Prez, D Senate, D House",
+    "category": "Politics"
+  },
+  "11673418683358866316301085387751523068048753966544150945611303267854659423322": {
+    "token_id": "11673418683358866316301085387751523068048753966544150945611303267854659423322",
+    "condition_id": "0x28f66bed374181b08fa7b7eead51d69a4a1af868f8e7ff6944c649822d76aa03",
+    "text": "2024 presidential election: GOP wins by 5-14 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: GOP wins by 5-14",
+    "category": "Politics"
+  },
+  "40640075596818951302390445605412751407380770601033819557217918312696439184180": {
+    "token_id": "40640075596818951302390445605412751407380770601033819557217918312696439184180",
+    "condition_id": "0x754a87acb717ce698d0eac1dd704e0a291ff95d0ad74f017621e65831247055c",
+    "text": "Will Caleb Williams win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Caleb Williams win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "49053375994742571860652088315085884720283262308934567514143770147957981207450": {
+    "token_id": "49053375994742571860652088315085884720283262308934567514143770147957981207450",
+    "condition_id": "0x14a087f7b1b23b9a3c32799255edf18832d548302d6657efdba816a458a18d4f",
+    "text": "2024 presidential election: Democrats win by 155-214 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: Democrats win by 155-214",
+    "category": "Politics"
+  },
+  "91875878567127100686098985204565681547997425723553249449568002274799624277200": {
+    "token_id": "91875878567127100686098985204565681547997425723553249449568002274799624277200",
+    "condition_id": "0x37a570f13c5e78f85eef34de2430736e15691dca8f5820946388bc15b9d956e7",
+    "text": "Will Israel invade Lebanon before November? [Category: Politics] [YES outcome]",
+    "question": "Will Israel invade Lebanon before November?",
+    "category": "Politics"
+  },
+  "89781756025923375175023998914600157347755052880794478053379930363418245740408": {
+    "token_id": "89781756025923375175023998914600157347755052880794478053379930363418245740408",
+    "condition_id": "0xe41df5757b4888e22f0f3ef70757dd4ff5d8099610c1150bbb20e9b59fdd61f3",
+    "text": "GOP wins popular vote by 1-2%? [Category: Politics] [YES outcome]",
+    "question": "GOP wins popular vote by 1-2%?",
+    "category": "Politics"
+  },
+  "65396714035221124737265515219989336303267439172398528294132309725835127126381": {
+    "token_id": "65396714035221124737265515219989336303267439172398528294132309725835127126381",
+    "condition_id": "0xd007d71fd17b0913b9d7ff198f617caa96a9e4aab1bed7d6f9abd76bb17dd507",
+    "text": "2024 presidential election: GOP wins by 155-214 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: GOP wins by 155-214",
+    "category": "Politics"
+  },
+  "75955614077910094300452138293023370533365022621611366627435700504860612163857": {
+    "token_id": "75955614077910094300452138293023370533365022621611366627435700504860612163857",
+    "condition_id": "0x01a9eea306780839c5cf9a15a572a438c23af6c49b57f67e8a379f5e48e0e4f8",
+    "text": "Joe Biden impeached before 2024 election? [Category: Politics] [YES outcome]",
+    "question": "Joe Biden impeached before 2024 election?",
+    "category": "Politics"
+  },
+  "77888176678720060596595785704561867851638990901352765132303721825934989281472": {
+    "token_id": "77888176678720060596595785704561867851638990901352765132303721825934989281472",
+    "condition_id": "0x7d9a43bd2690f796900680ad88d02134d4ba70761c19f2de9ea59c5b6f55830a",
+    "text": "Will a Democrat win Arizona Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Arizona Presidential Election?",
+    "category": "Politics"
+  },
+  "23452090462928163585257733383879365528898800849298930788345778676568194082451": {
+    "token_id": "23452090462928163585257733383879365528898800849298930788345778676568194082451",
+    "condition_id": "0x8f20ff6ed2ba1e234f35e701a50c274ffb64fdd8d621254d017db0445486ab79",
+    "text": "Will a Democrat win Nevada Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Nevada Presidential Election?",
+    "category": "Politics"
+  },
+  "100038420537482572525556691531865148324318723289388392794253042393988283565188": {
+    "token_id": "100038420537482572525556691531865148324318723289388392794253042393988283565188",
+    "condition_id": "0x8f97d034bbf01cd874af524cefc6d83deaa25373c1ab4545a81589a4d3d2b2a8",
+    "text": "Will a Democrat win North Carolina Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win North Carolina Presidential Election?",
+    "category": "Politics"
+  },
+  "7374237615890526880478224649885278725219793468355446734533315746155037370158": {
+    "token_id": "7374237615890526880478224649885278725219793468355446734533315746155037370158",
+    "condition_id": "0x34b5567e4f9a1b9561fba0f39c60b4da1f33052c8918dedc954401494d947cee",
+    "text": "Will a Democrat win Wisconsin Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Wisconsin Presidential Election?",
+    "category": "Politics"
+  },
+  "52806825294833981547111617649595023418528736212191630507797690699224259160344": {
+    "token_id": "52806825294833981547111617649595023418528736212191630507797690699224259160344",
+    "condition_id": "0x74b835cd8ec86eb9c44c6f1dc4185e5788c235868f2cb3f17b69ba67fe883d0c",
+    "text": "Will Lamar Jackson win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Lamar Jackson win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "77649026382213877138153966649551404921672543352938596532281164750961184750506": {
+    "token_id": "77649026382213877138153966649551404921672543352938596532281164750961184750506",
+    "condition_id": "0x8651d7d8b6f27328ad61fab52940f3e689c73695d622e193df138b19685da421",
+    "text": "2024 presidential election: GOP wins by 15-34 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: GOP wins by 15-34",
+    "category": "Politics"
+  },
+  "65296916822529786608589480973001109800752370083376702200697419905763894019594": {
+    "token_id": "65296916822529786608589480973001109800752370083376702200697419905763894019594",
+    "condition_id": "0x3d31558105899ab4025075b92cfb127fae4be0e9644a6895466aa50e2de37e72",
+    "text": "Fed decreases interest rates by 25 bps after November 2024 meeting? [Category: Economy] [YES outcome]",
+    "question": "Fed decreases interest rates by 25 bps after November 2024 meeting?",
+    "category": "Economy"
+  },
+  "26364719287184941741945881185831844635973004967505704663605951514882182392606": {
+    "token_id": "26364719287184941741945881185831844635973004967505704663605951514882182392606",
+    "condition_id": "0xb1cc260d14196274e3bda3b976a451a56e2800167576a049c12cccdbec9e743a",
+    "text": "Will Joe Burrow win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Joe Burrow win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "80584188659728989976401390075910998615858756886040658458309838322015683173745": {
+    "token_id": "80584188659728989976401390075910998615858756886040658458309838322015683173745",
+    "condition_id": "0xab9e5e0621918f6d4d8cb0430cef4d16e8d964e8c10cda60fcb48673e1e8476f",
+    "text": "Will Kamala Harris win all 6 swing states? [Category: Politics] [YES outcome]",
+    "question": "Will Kamala Harris win all 6 swing states?",
+    "category": "Politics"
+  },
+  "39507026378610635127679995284600413015003619057436481380216352505046956765480": {
+    "token_id": "39507026378610635127679995284600413015003619057436481380216352505046956765480",
+    "condition_id": "0x2efa6f490f03e75f573d2c4a90bf24e71fa6db5878ca09fd3b6698e3d4a293b4",
+    "text": "Will a nuclear weapon detonate in 2024? [Category: Politics] [YES outcome]",
+    "question": "Will a nuclear weapon detonate in 2024?",
+    "category": "Politics"
+  },
+  "27523375682021765390588187766633015068126055655405967473976256668819938305564": {
+    "token_id": "27523375682021765390588187766633015068126055655405967473976256668819938305564",
+    "condition_id": "0x2758b209d0ce348873b100c1205c2e3c2449222f211e4e9857e29e3071a65fad",
+    "text": "Will a Democrat win Virginia Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Virginia Presidential Election?",
+    "category": "Politics"
+  },
+  "40995292117970429151795749401159860428594023200698634319373964244351256862183": {
+    "token_id": "40995292117970429151795749401159860428594023200698634319373964244351256862183",
+    "condition_id": "0x0f4c9ed4a7277a22c7f863070842442be599f839ab0f1e72a130e6a8eee21e34",
+    "text": "Will Christian McCaffrey win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Christian McCaffrey win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "12114007747517340384640770826667371719468965613575901863343538277669045189268": {
+    "token_id": "12114007747517340384640770826667371719468965613575901863343538277669045189268",
+    "condition_id": "0xf596957aa36f2749bc6f18b15ecb262a4a13d5be5660b39194fc21465d9ddde8",
+    "text": "Will a Democrat win Florida in the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Florida in the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "20997923443157238057314792262127288326422203506234479919644854685825478421945": {
+    "token_id": "20997923443157238057314792262127288326422203506234479919644854685825478421945",
+    "condition_id": "0x3fbebb49ab61b4cc904734399d431326d5d5cd22b0bf985ab73a1d691483301e",
+    "text": "Will Republicans have 55 seats in Senate after election? [Category: Politics] [YES outcome]",
+    "question": "Will Republicans have 55 seats in Senate after election?",
+    "category": "Politics"
+  },
+  "55025728191360973219838021150407777764858944236363961405036384833102664242636": {
+    "token_id": "55025728191360973219838021150407777764858944236363961405036384833102664242636",
+    "condition_id": "0xba8ded3f29006bb62e05590ebe5e04dc24e129e5c9d01e66e2943def1f780806",
+    "text": "2024 presidential election: Democrats win by 35-64 [Category: Politics] [YES outcome]",
+    "question": "2024 presidential election: Democrats win by 35-64",
+    "category": "Politics"
+  },
+  "62039750473021656111387685819241044385523969491748243415106969722048297173727": {
+    "token_id": "62039750473021656111387685819241044385523969491748243415106969722048297173727",
+    "condition_id": "0xa4f9db091156468bc41bb82433b722a0ae4c207c18e632b509c2a867a7cc1c3d",
+    "text": "Will CeeDee Lamb win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will CeeDee Lamb win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "37942028732241477833940321143301584221324972371292582971077591548575307294264": {
+    "token_id": "37942028732241477833940321143301584221324972371292582971077591548575307294264",
+    "condition_id": "0x8e09b134cfde5b265065112b996d7dc983acdd22eccd005f350c40c964a42cd6",
+    "text": "Will Lewis Hamilton win the 2024 F1 season? [Category: Sports] [YES outcome]",
+    "question": "Will Lewis Hamilton win the 2024 F1 season?",
+    "category": "Sports"
+  },
+  "8506489790932625039746959405160059426243994232527626857062384302531008283468": {
+    "token_id": "8506489790932625039746959405160059426243994232527626857062384302531008283468",
+    "condition_id": "0xa59e2e79dc1a564477c8d77dc32c30b37c0f4c8782c8cc062a7f788295cd91bb",
+    "text": "Will a Republican win Wisconsin Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Wisconsin Presidential Election?",
+    "category": "Politics"
+  },
+  "99134563846358616155336796522080877737795767544828415712367429587531488111073": {
+    "token_id": "99134563846358616155336796522080877737795767544828415712367429587531488111073",
+    "condition_id": "0xcc8129a275417b0df7e73e5cb6ad066861b949fbed3575195bf6ef0c44dfd663",
+    "text": "Trump and Biden both win nomination? [Category: Politics] [YES outcome]",
+    "question": "Trump and Biden both win nomination?",
+    "category": "Politics"
+  },
+  "91145284120396841870136613350408110777679197463507006012250826912020747573842": {
+    "token_id": "91145284120396841870136613350408110777679197463507006012250826912020747573842",
+    "condition_id": "0xe64c6fede66cc4ddb7a5c1c7a96311ccff9e67f772ead725f71a61a3473a39c6",
+    "text": "Will USC win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will USC win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "98021166935117039411751630581502824091054448039251810280365647472625878604011": {
+    "token_id": "98021166935117039411751630581502824091054448039251810280365647472625878604011",
+    "condition_id": "0x5a06bb8f86198aac8ae8b9a2610f1bdcf8954123dc51d51a3e6c492f88821ba8",
+    "text": "Will a Republican win Florida in the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Florida in the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "15445683044807245440643964562749794547997278062786769129998648705745735794884": {
+    "token_id": "15445683044807245440643964562749794547997278062786769129998648705745735794884",
+    "condition_id": "0x357378be4b958929f618b03a935489b0e19ee4e21247f7a89c4ec036fe95d3ed",
+    "text": "Will a candidate from another party win Wisconsin Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a candidate from another party win Wisconsin Presidential Election?",
+    "category": "Politics"
+  },
+  "3871927428485769761941293093301936346966585290331404922187519259041214679155": {
+    "token_id": "3871927428485769761941293093301936346966585290331404922187519259041214679155",
+    "condition_id": "0x42e7fa3bd683a276dae0292f0ab910ac18eb76ce7cf014ec9203f6539768735a",
+    "text": "Will Fed cut interest rates 2 times in 2024? [Category: Economy] [YES outcome]",
+    "question": "Will Fed cut interest rates 2 times in 2024?",
+    "category": "Economy"
+  },
+  "62176861686421375641008326482266482846235719710412165030881860547339969332278": {
+    "token_id": "62176861686421375641008326482266482846235719710412165030881860547339969332278",
+    "condition_id": "0xb88b4e226ed108c28835808fbd12a1900a73b3151963c862ed64e99505c436e6",
+    "text": "Israel x Hamas ceasefire in 2024? [Category: Politics] [YES outcome]",
+    "question": "Israel x Hamas ceasefire in 2024?",
+    "category": "Politics"
+  },
+  "20456626901586288818118951175029626646285698623514185172563445178186281124237": {
+    "token_id": "20456626901586288818118951175029626646285698623514185172563445178186281124237",
+    "condition_id": "0x95004eac4e3693485f79d46c48f3bda9c848643a00767d41c6b43fac22ac376d",
+    "text": "Democrats win popular vote by 0-1%? [Category: Politics] [YES outcome]",
+    "question": "Democrats win popular vote by 0-1%?",
+    "category": "Politics"
+  },
+  "43935470812764053333396617358775452636981575281277047583591435976807594726576": {
+    "token_id": "43935470812764053333396617358775452636981575281277047583591435976807594726576",
+    "condition_id": "0x270d51ab499f6306b222d442811a566d054e194c4ddf9b1de0e3ade7246a7058",
+    "text": "Will another player win NFL MVP for the 2024-2025 season? [Category: Sports] [YES outcome]",
+    "question": "Will another player win NFL MVP for the 2024-2025 season?",
+    "category": "Sports"
+  },
+  "42092678926288151580588336625959004476189418546933266397514223028504688845675": {
+    "token_id": "42092678926288151580588336625959004476189418546933266397514223028504688845675",
+    "condition_id": "0xa781c5233dc3dba624ae1cf3b1ed47abd04d3a8b1823870e9cbfc2ca9ea86e3b",
+    "text": "Will Jared Goff win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Jared Goff win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "33610857406486254117231902121592829533636164148304572139125692987613430351111": {
+    "token_id": "33610857406486254117231902121592829533636164148304572139125692987613430351111",
+    "condition_id": "0x60969a6e61fe3d8cf5f0860d81b78c1f317f580f387f83b600db8bb6ded23f5d",
+    "text": "Will Missouri win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will Missouri win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "14074899245279883968821293264759723333204074453646392727272579405506036984241": {
+    "token_id": "14074899245279883968821293264759723333204074453646392727272579405506036984241",
+    "condition_id": "0x1652ed7c8396de76eb1c18c202e75def313f836c8184f52ae4236ca26990f115",
+    "text": "Will a Republican win New York Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win New York Presidential Election?",
+    "category": "Politics"
+  },
+  "5690379412844472378491285614065764289522424365063615941331551001296177725370": {
+    "token_id": "5690379412844472378491285614065764289522424365063615941331551001296177725370",
+    "condition_id": "0x4150752d0efc99377d7388908724cb79e8423768414af7e4a4ee857ac28ef8e3",
+    "text": "Election certified on January 6? [Category: Politics] [YES outcome]",
+    "question": "Election certified on January 6?",
+    "category": "Politics"
+  },
+  "64805292969408365190356691120878379669797617670261813245752316913462178258486": {
+    "token_id": "64805292969408365190356691120878379669797617670261813245752316913462178258486",
+    "condition_id": "0xa8b22d7d3402b9823aca8ba68fa9beee749049bf67b8efa0935fcb8963d5d357",
+    "text": "Will there be less than 16 named storms during Atlantic Hurricane Season? [Category: Science] [YES outcome]",
+    "question": "Will there be less than 16 named storms during Atlantic Hurricane Season?",
+    "category": "Science"
+  },
+  "114428609910167623794637846887336828191610859549651979006840998523468569415095": {
+    "token_id": "114428609910167623794637846887336828191610859549651979006840998523468569415095",
+    "condition_id": "0x31792ceadf2e3fd57044a567a20001feb4c4e0ef2523d43528bcae99f082066e",
+    "text": "GOP wins popular vote by 5-6%? [Category: Politics] [YES outcome]",
+    "question": "GOP wins popular vote by 5-6%?",
+    "category": "Politics"
+  },
+  "50046196523801527575378988405908168048191919655087960031457941160586547746014": {
+    "token_id": "50046196523801527575378988405908168048191919655087960031457941160586547746014",
+    "condition_id": "0x1f1d2d92a31adf9f9f4691d61549e6a98af1e3eb2a6f99e2ebfeaa657ecb03af",
+    "text": "Will the US confirm that aliens exist in 2024? [Category: Politics] [YES outcome]",
+    "question": "Will the US confirm that aliens exist in 2024?",
+    "category": "Politics"
+  },
+  "12722886472585088555576439822858098617714566511262306314338532779967138418382": {
+    "token_id": "12722886472585088555576439822858098617714566511262306314338532779967138418382",
+    "condition_id": "0xfd3af5c93893b1cf117c28e4e8b1d91eca4c69649ec4e8dd62445667047ad9b0",
+    "text": "Democrats win popular vote by 5-6%? [Category: Politics] [YES outcome]",
+    "question": "Democrats win popular vote by 5-6%?",
+    "category": "Politics"
+  },
+  "22954390469393761478435587094271162660864811978634802609696033004592606875337": {
+    "token_id": "22954390469393761478435587094271162660864811978634802609696033004592606875337",
+    "condition_id": "0x883f6ac0468d3449161454db37acb951bad5b55a7752bc2dd007e40356cee353",
+    "text": "Will a Republican win Texas in the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Texas in the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "106428415972306440805659798821565836957352710901932544423124141186478841559835": {
+    "token_id": "106428415972306440805659798821565836957352710901932544423124141186478841559835",
+    "condition_id": "0xda60399dab4f9cb4dc21b8a7e46fc3e9a141e8da6a238258fff293a16eee7ce3",
+    "text": "Senate control after 2024 election? [Category: Politics] [YES outcome]",
+    "question": "Senate control after 2024 election?",
+    "category": "Politics"
+  },
+  "61811145798247368645026645370567079558813845010538494227283744629478563039430": {
+    "token_id": "61811145798247368645026645370567079558813845010538494227283744629478563039430",
+    "condition_id": "0x0e85e94301db0e38e25f0650ab649c3a4485b5fc9734a8b6abf3d0da0ee6dd55",
+    "text": "Will Joe pardon Hunter Biden? [Category: Politics] [YES outcome]",
+    "question": "Will Joe pardon Hunter Biden?",
+    "category": "Politics"
+  },
+  "62589992231469350607103323707182050712969903057894536748402684527725808539235": {
+    "token_id": "62589992231469350607103323707182050712969903057894536748402684527725808539235",
+    "condition_id": "0x1329a399b6534cb77323e496fd2dc9e247f2a8946df86a03284581d87869018f",
+    "text": "Will Josh Allen win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Josh Allen win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "62399506755366091856103403252239953666774135692742608136548156202528220881560": {
+    "token_id": "62399506755366091856103403252239953666774135692742608136548156202528220881560",
+    "condition_id": "0xc7599c7b33b64f891750b57439384d163f547600fed4a6007918751f8f37740d",
+    "text": "No Ethereum all time high in 2024? [Category: Crypto] [YES outcome]",
+    "question": "No Ethereum all time high in 2024?",
+    "category": "Crypto"
+  },
+  "51333916780794331940122386074682365133249796682848404065652214647384231275041": {
+    "token_id": "51333916780794331940122386074682365133249796682848404065652214647384231275041",
+    "condition_id": "0xf15c3b1459441d68519b4a698e8b971ffc9001d8a0438010e8acc2d0fc083c75",
+    "text": "Will a Republican win Iowa Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Iowa Presidential Election?",
+    "category": "Politics"
+  },
+  "21284617262980692606806928122381200409204256260445251556840459577986947868946": {
+    "token_id": "21284617262980692606806928122381200409204256260445251556840459577986947868946",
+    "condition_id": "0x72ec3b915253a6634fd68a6cfdfc15b609f692a72acd1dc2e8ab3061248d7fd8",
+    "text": "Will Dak Prescott be the top Fantasy Quarterback? [Category: Sports] [YES outcome]",
+    "question": "Will Dak Prescott be the top Fantasy Quarterback?",
+    "category": "Sports"
+  },
+  "69957535606554334051493849773365565085200343213780884418403974246481158278196": {
+    "token_id": "69957535606554334051493849773365565085200343213780884418403974246481158278196",
+    "condition_id": "0x6689c157a7c57f0ee8ab7feace215061cbb8828191854fe81f17976ef33b023e",
+    "text": "Will Trump go on Joe Rogan before election? [Category: Politics] [YES outcome]",
+    "question": "Will Trump go on Joe Rogan before election?",
+    "category": "Politics"
+  },
+  "87739741854577162734421330506625550731064794186361452979740536484076461067651": {
+    "token_id": "87739741854577162734421330506625550731064794186361452979740536484076461067651",
+    "condition_id": "0x848a2388c956a70178e0f87e21cbee5c01b68789398a52fedc4fbf998c8b85d5",
+    "text": "4+ Trump vs. Harris debates before election? [Category: Politics] [YES outcome]",
+    "question": "4+ Trump vs. Harris debates before election?",
+    "category": "Politics"
+  },
+  "16338248882650338137241086552022250491235658849102144088121923881075531783250": {
+    "token_id": "16338248882650338137241086552022250491235658849102144088121923881075531783250",
+    "condition_id": "0xfa3a37e7bf749320420e16628d1b6c10983492140923318b2d9f261939ae21a8",
+    "text": "Will the Dolphins win the AFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Dolphins win the AFC Championship?",
+    "category": "Sports"
+  },
+  "29568850296973635283785072404975172243637945299175000733062986720763656453031": {
+    "token_id": "29568850296973635283785072404975172243637945299175000733062986720763656453031",
+    "condition_id": "0x874903f053ee9e1bc4a270a6d40886deaf61e6bfb373ecfbbd03d8e1053f7ceb",
+    "text": "Will Trump drop out of presidential race? [Category: Politics] [YES outcome]",
+    "question": "Will Trump drop out of presidential race?",
+    "category": "Politics"
+  },
+  "90136725712515143196414609721582845740574932050949368617965803462978935329084": {
+    "token_id": "90136725712515143196414609721582845740574932050949368617965803462978935329084",
+    "condition_id": "0x8e1b3055f4b1439636252c5b8a32387234b48403d95abe1ad23fe59c6181b067",
+    "text": "Will a Democrat win Iowa Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Iowa Presidential Election?",
+    "category": "Politics"
+  },
+  "1209462020816667852119161941307964607707270453106532235840472961298289493718": {
+    "token_id": "1209462020816667852119161941307964607707270453106532235840472961298289493718",
+    "condition_id": "0xac51c43100e1aaf4968aa61fe72eb320dd308959dc6a7a14a6f3ebe758e7f88d",
+    "text": "Trump nominates Elon Musk to Cabinet? [Category: Politics] [YES outcome]",
+    "question": "Trump nominates Elon Musk to Cabinet?",
+    "category": "Politics"
+  },
+  "46223792760371247780327657432058680951012883891639520548017020703044889812558": {
+    "token_id": "46223792760371247780327657432058680951012883891639520548017020703044889812558",
+    "condition_id": "0xbb2169f3a18a62a9dd1af9a46f723bb39355c8ee1ea23badba3dc160a97409b2",
+    "text": "Will RFK Jr. win 5-6% of the popular vote? [Category: Politics] [YES outcome]",
+    "question": "Will RFK Jr. win 5-6% of the popular vote?",
+    "category": "Politics"
+  },
+  "16486997348861934862672504670387492035158827551443648488938149654007929145909": {
+    "token_id": "16486997348861934862672504670387492035158827551443648488938149654007929145909",
+    "condition_id": "0xf4f7bccd5b9a086c36f8ae5c5e9e5a06084642c615b6efe4b3e96a50a88b8642",
+    "text": "Will Garrett Wilson be the top Fantasy Wide Receiver? [Category: Sports] [YES outcome]",
+    "question": "Will Garrett Wilson be the top Fantasy Wide Receiver?",
+    "category": "Sports"
+  },
+  "6132496818260436054075720038539553909434961036068900747725835483027844073522": {
+    "token_id": "6132496818260436054075720038539553909434961036068900747725835483027844073522",
+    "condition_id": "0x6aa378290693ff8f3aafc036d70c4f3dcf7e6929b0bed3de3d8110848bce921d",
+    "text": "Will Tyreek Hill win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Tyreek Hill win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "70057563029181740383351302880667691057440355307732969897975148615486334142598": {
+    "token_id": "70057563029181740383351302880667691057440355307732969897975148615486334142598",
+    "condition_id": "0xfa5a7ff654fb16fbbba2891bb08888d7b876581fed0e09c108919a8ec9732f18",
+    "text": "Will a Democrat win New Jersey Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win New Jersey Presidential Election?",
+    "category": "Politics"
+  },
+  "86780425591672680172696499503271357257400216449477685241499081914700028312435": {
+    "token_id": "86780425591672680172696499503271357257400216449477685241499081914700028312435",
+    "condition_id": "0xbbdf490c4c7585675e11a23c70b46099a9d8edb05719dc45bf2f428617e3abb5",
+    "text": "Will the Rams win the NFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Rams win the NFC Championship?",
+    "category": "Sports"
+  },
+  "108711841359369601103922875524621912623305832251098427700855120981942788049747": {
+    "token_id": "108711841359369601103922875524621912623305832251098427700855120981942788049747",
+    "condition_id": "0x0a573d0d2e1f013707b2b6b5429b35db371fdb31f67909ed719abb381b1de6e1",
+    "text": "Will a Democrat win New York Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win New York Presidential Election?",
+    "category": "Politics"
+  },
+  "114220513448460498153657420056598290729581090786521475782612615559931508520215": {
+    "token_id": "114220513448460498153657420056598290729581090786521475782612615559931508520215",
+    "condition_id": "0x5605bc5d7557217f5ebb00d00f639ac8b9da949016b8cabcd7e9183ea1cac060",
+    "text": "Trump in jail before election day? [Category: Politics] [YES outcome]",
+    "question": "Trump in jail before election day?",
+    "category": "Politics"
+  },
+  "54595594259998696133629351217336952211014407059086517543744307948610776455833": {
+    "token_id": "54595594259998696133629351217336952211014407059086517543744307948610776455833",
+    "condition_id": "0x40802562d59f370cc95cd842fde20462fcb627cb275d418fac2e984762f037a2",
+    "text": "Will Ukraine hold Kursk through 2024? [Category: Geopolitics] [YES outcome]",
+    "question": "Will Ukraine hold Kursk through 2024?",
+    "category": "Geopolitics"
+  },
+  "109193359842614462649768714123661929746247460686168540872183774378497988296172": {
+    "token_id": "109193359842614462649768714123661929746247460686168540872183774378497988296172",
+    "condition_id": "0xc1a4830eef6f60d9e0f05ecb5aa81b11d7d361e1a869c0138219840af849a986",
+    "text": "Will a Republican win Pennsylvania US Senate Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Pennsylvania US Senate Election?",
+    "category": "Politics"
+  },
+  "6085032170134327579114182305930526278215640779150803622973009645927062374260": {
+    "token_id": "6085032170134327579114182305930526278215640779150803622973009645927062374260",
+    "condition_id": "0xa457cf5d0184d3c4e68ff04e79357bd4dd5b68bdabd018855ef0ef1c790c7b76",
+    "text": "Will a candidate from another party win Maine's 2nd congressional district? [Category: Politics] [YES outcome]",
+    "question": "Will a candidate from another party win Maine's 2nd congressional district?",
+    "category": "Politics"
+  },
+  "1452533964469551620665155566724360768804482013082769540201617335907763191040": {
+    "token_id": "1452533964469551620665155566724360768804482013082769540201617335907763191040",
+    "condition_id": "0x5f71c0396254199eca645d987c489df1690e6a42eefc9c5b377b7bf68f7ee926",
+    "text": "Will a Republican win New Jersey Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win New Jersey Presidential Election?",
+    "category": "Politics"
+  },
+  "44163286845173310190449640356655412603732483959961729651097984470293410575983": {
+    "token_id": "44163286845173310190449640356655412603732483959961729651097984470293410575983",
+    "condition_id": "0x0bc614c4fc8a19f63c46fd7f5b270704c3286f0e436e8b02591166f220544e14",
+    "text": "OpenSea token >1 billion a week after launch? [Category: Crypto] [YES outcome]",
+    "question": "OpenSea token >1 billion a week after launch?",
+    "category": "Crypto"
+  },
+  "82024902597718404131003803961380578078915489088398928995760929598589413089525": {
+    "token_id": "82024902597718404131003803961380578078915489088398928995760929598589413089525",
+    "condition_id": "0x46cf194239f2bed4a4e74782ececd7babc45b9dbcaef362614454f420acef630",
+    "text": "Democrats win popular vote by 6-7%? [Category: Politics] [YES outcome]",
+    "question": "Democrats win popular vote by 6-7%?",
+    "category": "Politics"
+  },
+  "62854698886129118169911867383053460974984980769280063978440383888742971697088": {
+    "token_id": "62854698886129118169911867383053460974984980769280063978440383888742971697088",
+    "condition_id": "0xc6ec0ec408dbc30a17be606b95d2c81c526fc7490a636eb44970bf77fbe3d6ae",
+    "text": "Suella Braverman next Conservative party leader? [Category: Politics] [YES outcome]",
+    "question": "Suella Braverman next Conservative party leader?",
+    "category": "Politics"
+  },
+  "112108601397974887983591943696951163631741323956587739399052689080303791907532": {
+    "token_id": "112108601397974887983591943696951163631741323956587739399052689080303791907532",
+    "condition_id": "0xb7f3ededaacf495c69cce22c7bdf33982aa38912c5d6741c6e4f067a62d54188",
+    "text": "Kamala Harris blowout victory? [Category: Politics] [YES outcome]",
+    "question": "Kamala Harris blowout victory?",
+    "category": "Politics"
+  },
+  "58059853537451964777059792095816455340743648080733545719045977017101901211397": {
+    "token_id": "58059853537451964777059792095816455340743648080733545719045977017101901211397",
+    "condition_id": "0x9df4efa8764eec4d1bd089e8598447d32408951ad502f483eecae2e0a19480bd",
+    "text": "Will a Democrat win Pennsylvania US Senate Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Pennsylvania US Senate Election?",
+    "category": "Politics"
+  },
+  "28575856305735997454292144029415488831448116303211975335944916337052929720230": {
+    "token_id": "28575856305735997454292144029415488831448116303211975335944916337052929720230",
+    "condition_id": "0x6e62c6a8abf7627ea36631afb0f7b0d3eb5bfc9167e0ade2db8c889e91e06dfd",
+    "text": "Ethereum all time high in Q3 2024? [Category: Crypto] [YES outcome]",
+    "question": "Ethereum all time high in Q3 2024?",
+    "category": "Crypto"
+  },
+  "71032513329859173922225731232906528899749272788385697994389920589732822402606": {
+    "token_id": "71032513329859173922225731232906528899749272788385697994389920589732822402606",
+    "condition_id": "0xb4826f32905e69f19993cd84e180881c85671d1f9e1a4301f0dafc9c72edc46c",
+    "text": "Will Brock Purdy win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Brock Purdy win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "81845780961887801581455901948340558288624986237911354890433520650799170937128": {
+    "token_id": "81845780961887801581455901948340558288624986237911354890433520650799170937128",
+    "condition_id": "0xea4002c56d118cab706bf6cd34783948f5523a06239f7e59f443ac683f0fa140",
+    "text": "Trump wins a solid blue state? [Category: Politics] [YES outcome]",
+    "question": "Trump wins a solid blue state?",
+    "category": "Politics"
+  },
+  "49019476359655194180035817429270028916233594957259453281718780451197212813454": {
+    "token_id": "49019476359655194180035817429270028916233594957259453281718780451197212813454",
+    "condition_id": "0xd30592065c203fb93edc2d9e7cd0c4da5093f4ce7d57e85e55761c8ae27e3ce1",
+    "text": "Will Patrick Mahomes be the top Fantasy Quarterback? [Category: Sports] [YES outcome]",
+    "question": "Will Patrick Mahomes be the top Fantasy Quarterback?",
+    "category": "Sports"
+  },
+  "12562403682456436357613166596471358184531128105986467262090528051964668170191": {
+    "token_id": "12562403682456436357613166596471358184531128105986467262090528051964668170191",
+    "condition_id": "0x148b1fdae92ad9556d0e7d675d1c4a4688336615a81c476841854c8390afbaa0",
+    "text": "Democrats win popular vote by 3-4%? [Category: Politics] [YES outcome]",
+    "question": "Democrats win popular vote by 3-4%?",
+    "category": "Politics"
+  },
+  "114348764082100671299495859311302103169701355134735300981582468907792902121612": {
+    "token_id": "114348764082100671299495859311302103169701355134735300981582468907792902121612",
+    "condition_id": "0x4057c2528a3815d460f0c5889f52a914745b23400c4548804afee8f9c4a56ec3",
+    "text": "Fed rate cut by December 18? [Category: Economy] [YES outcome]",
+    "question": "Fed rate cut by December 18?",
+    "category": "Economy"
+  },
+  "22593470400570683423833635648652289684874440186319061545473227683953429161582": {
+    "token_id": "22593470400570683423833635648652289684874440186319061545473227683953429161582",
+    "condition_id": "0x7b101c49121dc1f4913b60c29f647802e15af05c10464686594098f3f73f8fce",
+    "text": "Will Republicans have 56 or more seats in Senate after election? [Category: Politics] [YES outcome]",
+    "question": "Will Republicans have 56 or more seats in Senate after election?",
+    "category": "Politics"
+  },
+  "68978152761409575043134136722310699704546528623885519945958342628946896852822": {
+    "token_id": "68978152761409575043134136722310699704546528623885519945958342628946896852822",
+    "condition_id": "0x63d2c75b928071eabe91fc71e592b4b079d04349cdf54134a28f0a8370c495b5",
+    "text": "Will China unban Bitcoin in 2024? [Category: Crypto] [YES outcome]",
+    "question": "Will China unban Bitcoin in 2024?",
+    "category": "Crypto"
+  },
+  "11425604071714462403716506671292318611360609539536817900771246384440731603032": {
+    "token_id": "11425604071714462403716506671292318611360609539536817900771246384440731603032",
+    "condition_id": "0x95fabd1ca23b5f19bae851b9aa3aeee577caa7b86e5176929b4702875ce5818c",
+    "text": "Democrats win popular vote by 4-5%? [Category: Politics] [YES outcome]",
+    "question": "Democrats win popular vote by 4-5%?",
+    "category": "Politics"
+  },
+  "39812097611283471264869367255898132913156402490516919655302794178828356981573": {
+    "token_id": "39812097611283471264869367255898132913156402490516919655302794178828356981573",
+    "condition_id": "0x896ed831aef8b7210f9d100c9ea42e41eae0575c9b6ad0f1fef26620f48d22f7",
+    "text": "Will a Democrat win Texas in the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Texas in the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "86556852120580343645826374672699212786114730144448767987017123052928178847367": {
+    "token_id": "86556852120580343645826374672699212786114730144448767987017123052928178847367",
+    "condition_id": "0xeae90bc0d5d1ed9925b67905c1ab536c4ed2885ae7c5ae8807923fb71e24988e",
+    "text": "Will $ETH hit $2000 or $4000 first? [Category: Crypto] [YES outcome]",
+    "question": "Will $ETH hit $2000 or $4000 first?",
+    "category": "Crypto"
+  },
+  "89144445588044134346931198010027480833223547477221275357099459646085230373849": {
+    "token_id": "89144445588044134346931198010027480833223547477221275357099459646085230373849",
+    "condition_id": "0xb36d9c4fb1fac427ee93c27730c7c2b88c8e6000c7ff693bbcab68458b658f6c",
+    "text": "Will Ukraine join NATO in 2024? [Category: Politics] [YES outcome]",
+    "question": "Will Ukraine join NATO in 2024?",
+    "category": "Politics"
+  },
+  "101379903518511337936698813169954235339791510959364018891476818273590494369511": {
+    "token_id": "101379903518511337936698813169954235339791510959364018891476818273590494369511",
+    "condition_id": "0xc01816a94cf33dae70a037ed4e1ba632a5a32bbdb1d6b802ede5b375f88ad91d",
+    "text": "2 Trump vs. Harris debates before election? [Category: Politics] [YES outcome]",
+    "question": "2 Trump vs. Harris debates before election?",
+    "category": "Politics"
+  },
+  "91042003396216233623470161230196591963738595484488580875732105008921748200107": {
+    "token_id": "91042003396216233623470161230196591963738595484488580875732105008921748200107",
+    "condition_id": "0x0f99544f8db2651fdafb79636924b4d9ec73c9b61d77a9e56f467c6b0c932c3d",
+    "text": "Will Putin remain President of Russia through 2024? [Category: Politics] [YES outcome]",
+    "question": "Will Putin remain President of Russia through 2024?",
+    "category": "Politics"
+  },
+  "22094694127480622034116529412549315140198869159070073936964420830436109146471": {
+    "token_id": "22094694127480622034116529412549315140198869159070073936964420830436109146471",
+    "condition_id": "0x037f0d4493a455779744fbb8154f729462cef4f3d6f28fe4f95ddfbc6559f5fc",
+    "text": "Will Ukraine hold Kursk through October 31? [Category: Politics] [YES outcome]",
+    "question": "Will Ukraine hold Kursk through October 31?",
+    "category": "Politics"
+  },
+  "69602292127940650565898640369699328654855484511337430183724523391119643858395": {
+    "token_id": "69602292127940650565898640369699328654855484511337430183724523391119643858395",
+    "condition_id": "0x2f7caf22bb2cb9b1d62d22aec9a3580620be00e585c41e29f8d9b42658545827",
+    "text": "Will Jalen Hurts win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Jalen Hurts win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "75196359692989187018411418870859031296447545562973355617507233505746713995861": {
+    "token_id": "75196359692989187018411418870859031296447545562973355617507233505746713995861",
+    "condition_id": "0x9be6760eca88434624ecb3e9dbf3b1ff161c630559c52d80b2b23b8efbcd43bf",
+    "text": "Will a Republican win New Hampshire in the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win New Hampshire in the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "66536448602158966805613250002470998604484533204127396181223697966097460346342": {
+    "token_id": "66536448602158966805613250002470998604484533204127396181223697966097460346342",
+    "condition_id": "0x05be694911f02a1061a671bb598147656e3acb35cf2d0334045ec8fb2e3711b5",
+    "text": "Will Tyreek Hill be the top Fantasy Wide Receiver? [Category: Sports] [YES outcome]",
+    "question": "Will Tyreek Hill be the top Fantasy Wide Receiver?",
+    "category": "Sports"
+  },
+  "114095594799864456991314065886607274318802502523929905538657212930828147958310": {
+    "token_id": "114095594799864456991314065886607274318802502523929905538657212930828147958310",
+    "condition_id": "0x6c7800ad2659e1db7e8bc19aa76b33b9c9ca95d18b34e2f2174aa18bbea66a87",
+    "text": "Will Davante Adams be the top Fantasy Wide Receiver? [Category: Sports] [YES outcome]",
+    "question": "Will Davante Adams be the top Fantasy Wide Receiver?",
+    "category": "Sports"
+  },
+  "89696659573954222419095252604067183414791320102947583740730535398317437004018": {
+    "token_id": "89696659573954222419095252604067183414791320102947583740730535398317437004018",
+    "condition_id": "0x04787bbd66241501604f377f11b897879c1593b019bb3363dac0a73e99b4a131",
+    "text": "Will Fed cut interest rates 0 times in 2024? [Category: Economy] [YES outcome]",
+    "question": "Will Fed cut interest rates 0 times in 2024?",
+    "category": "Economy"
+  },
+  "26765767059048241287828951338485270146326110873128547459828005167429506348986": {
+    "token_id": "26765767059048241287828951338485270146326110873128547459828005167429506348986",
+    "condition_id": "0x3b692dcdd40f9bfdd313e251c0d5fa4b7cfb60194f321d2e81ef2c846523543d",
+    "text": "Trump election interference trial doesn't start before November? [Category: Politics] [YES outcome]",
+    "question": "Trump election interference trial doesn't start before November?",
+    "category": "Politics"
+  },
+  "93228023618410490101171282292262923995154960859974869936361626344713447693757": {
+    "token_id": "93228023618410490101171282292262923995154960859974869936361626344713447693757",
+    "condition_id": "0x642926331d650ed2e4e1da2593f388cd803b4f283e09218fc1c5de90087b585c",
+    "text": "Fed rate cut by November 7? [Category: Economy] [YES outcome]",
+    "question": "Fed rate cut by November 7?",
+    "category": "Economy"
+  },
+  "32061822660648505190439749582730144962219385395373294493994461427078511278014": {
+    "token_id": "32061822660648505190439749582730144962219385395373294493994461427078511278014",
+    "condition_id": "0x3a20c47fa364a47ede415db68367b5ad7f21fde0434ec6fd12bf41ef5ce6426e",
+    "text": "Bieber Baby: Boy or Girl? [Category: Entertainment] [YES outcome]",
+    "question": "Bieber Baby: Boy or Girl?",
+    "category": "Entertainment"
+  },
+  "76086657382315817343527888887712911352307042089107228584578800370088543092486": {
+    "token_id": "76086657382315817343527888887712911352307042089107228584578800370088543092486",
+    "condition_id": "0xfcfdbdff911d7cc90d6942d8493b378a9b8997f2a9698208d9d1429f683f622b",
+    "text": "Nigel Farage next Conservative party leader? [Category: Politics] [YES outcome]",
+    "question": "Nigel Farage next Conservative party leader?",
+    "category": "Politics"
+  },
+  "95650244343527063451601706056449414553643804726965000712843714722311268702906": {
+    "token_id": "95650244343527063451601706056449414553643804726965000712843714722311268702906",
+    "condition_id": "0xdbbfb2e2999388e11cc55a9295bf3df74656a0aa335f0cce11bbb558d100f181",
+    "text": "Will Texas A&M win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will Texas A&M win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "66391811817461961456664099055731187743413899034777480211034147045586920591893": {
+    "token_id": "66391811817461961456664099055731187743413899034777480211034147045586920591893",
+    "condition_id": "0xfad14932325af166b81190e1f3c0d7ed892357551e5a77f064813f2de5a1b40a",
+    "text": "Canada federal election in 2024? [Category: Politics] [YES outcome]",
+    "question": "Canada federal election in 2024?",
+    "category": "Politics"
+  },
+  "81601634519502967867485435565065137506690750782622690763852351004309979066748": {
+    "token_id": "81601634519502967867485435565065137506690750782622690763852351004309979066748",
+    "condition_id": "0x16a920cf5afde2c3c2488e18c028d938d054e420e05b5516e30c6c64de0f1247",
+    "text": "Global heat increase less than 1.22\u00b0C for 2024? [Category: Science] [YES outcome]",
+    "question": "Global heat increase less than 1.22\u00b0C for 2024?",
+    "category": "Science"
+  },
+  "30670722979084148793424221598664470441196435655366270740144523147691023552033": {
+    "token_id": "30670722979084148793424221598664470441196435655366270740144523147691023552033",
+    "condition_id": "0x1c4a876957f0c70fb3a579d714c1c125bf14bcc0a6d47073115a1855cd4dd9ab",
+    "text": "Will a Democrat win New Hampshire in the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win New Hampshire in the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "60608272752931900299855488220673461531662842210467006750573561885464983528412": {
+    "token_id": "60608272752931900299855488220673461531662842210467006750573561885464983528412",
+    "condition_id": "0x7a696d73db4c2b41303169e15eca7be4fb3304ac50f019591025db68fd60bdfb",
+    "text": "Will Justin Herbert win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Justin Herbert win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "64479810606534107694084898926680187260422516353477452671996847232472736282123": {
+    "token_id": "64479810606534107694084898926680187260422516353477452671996847232472736282123",
+    "condition_id": "0xf7fb94eb08c13612869e9854a9e57e589c21abea7f7cfc53ab01292844e10c71",
+    "text": "Will a Republican win Hawaii Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Hawaii Presidential Election?",
+    "category": "Politics"
+  },
+  "76956719181744843247904576599532513513261965624820016803659322633747862704651": {
+    "token_id": "76956719181744843247904576599532513513261965624820016803659322633747862704651",
+    "condition_id": "0x78234aafc88ab34b177109a5448cd90d7d1fd4efea1983d19fd67eee78ff0239",
+    "text": "1 Trump vs. Harris debate before election? [Category: Politics] [YES outcome]",
+    "question": "1 Trump vs. Harris debate before election?",
+    "category": "Politics"
+  },
+  "76853843805943930098851356631575828742499326807169043316029763219956701656395": {
+    "token_id": "76853843805943930098851356631575828742499326807169043316029763219956701656395",
+    "condition_id": "0xc5e47c2e972c8359159e83136275d5570e2339f0b6b05bd341146167b9420c81",
+    "text": "Global heat increase between 1.25\u00b0C and 1.27\u00b0C for 2024? [Category: Science] [YES outcome]",
+    "question": "Global heat increase between 1.25\u00b0C and 1.27\u00b0C for 2024?",
+    "category": "Science"
+  },
+  "42754205592098225876494085519199715294545565721552192019489843399210578288064": {
+    "token_id": "42754205592098225876494085519199715294545565721552192019489843399210578288064",
+    "condition_id": "0x0dbfc0ff56a16c101cb521819a4f84a3e1066f51353dcf9a4715619445646961",
+    "text": "Will Trump be Speaker by October 1? [Category: Politics] [YES outcome]",
+    "question": "Will Trump be Speaker by October 1?",
+    "category": "Politics"
+  },
+  "80295965698013364055124277892000812406495443505807301623704468412606842330071": {
+    "token_id": "80295965698013364055124277892000812406495443505807301623704468412606842330071",
+    "condition_id": "0x9a6aae9fbe7ebfea1527b25b0b83e7fcf22ccc6216deb414c3e830266dfc36ec",
+    "text": "Trump and Harris agree to Fox News debate? [Category: Politics] [YES outcome]",
+    "question": "Trump and Harris agree to Fox News debate?",
+    "category": "Politics"
+  },
+  "110937318911713081126564898089385484919292097494184612734714066496052660848349": {
+    "token_id": "110937318911713081126564898089385484919292097494184612734714066496052660848349",
+    "condition_id": "0x49840b617c32858f786529168a3bf4424e31935ce415550e4cfd1af3d8c511e8",
+    "text": "Eigenlayer market cap (FDV) between $35-40b one day after launch? [Category: Crypto] [YES outcome]",
+    "question": "Eigenlayer market cap (FDV) between $35-40b one day after launch?",
+    "category": "Crypto"
+  },
+  "7939971496010614140255521025361946036887597396801885630948780248501459574176": {
+    "token_id": "7939971496010614140255521025361946036887597396801885630948780248501459574176",
+    "condition_id": "0xf8b59fb8be8d6290203c841e7b6c7b1f8610f44402213fd9f7d612d972dc9733",
+    "text": "Will Clemson win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will Clemson win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "46145418401377305783267134091526964869853549197406391986972765791307225284091": {
+    "token_id": "46145418401377305783267134091526964869853549197406391986972765791307225284091",
+    "condition_id": "0xebd09819ef04d3d8c255e4012c96bb7d4e37315d0b96e8d9ec82c1ad010799d4",
+    "text": "Will Ethereum hit $15k in 2024? [Category: Politics] [YES outcome]",
+    "question": "Will Ethereum hit $15k in 2024?",
+    "category": "Politics"
+  },
+  "16093635307982884825439107946592486233742828570696610508424513709651224010605": {
+    "token_id": "16093635307982884825439107946592486233742828570696610508424513709651224010605",
+    "condition_id": "0x2151f3bb327741f78fb775e5b5e94c6d0aa3293e35faf1d59cb71fc6826b4d13",
+    "text": "Jeremy Hunt next Conservative party leader? [Category: Politics] [YES outcome]",
+    "question": "Jeremy Hunt next Conservative party leader?",
+    "category": "Politics"
+  },
+  "92117185710429643911455104199091166119411848668357581614617019864951532204911": {
+    "token_id": "92117185710429643911455104199091166119411848668357581614617019864951532204911",
+    "condition_id": "0x8d6c72da067c6a11bc691b8a2c59fde834cf6ad25d218be415989b2026bdf2b6",
+    "text": "Will a Republican win Minnesota in the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Minnesota in the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "40272212830508670243037732715024070148011595268314248676679355856143076598752": {
+    "token_id": "40272212830508670243037732715024070148011595268314248676679355856143076598752",
+    "condition_id": "0xebb854bcaa522504554c406fe0ad047679322d147971b7bd086d83c69f6d4499",
+    "text": "Will Utah win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will Utah win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "65419537107469308220747055700991375596255001358678307892428584176524639462822": {
+    "token_id": "65419537107469308220747055700991375596255001358678307892428584176524639462822",
+    "condition_id": "0xe2ce622d89aea8088e6f8ce054356023a7d6fc0c8c9778431f6db823a4aa22fc",
+    "text": "Will the Commanders win the NFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Commanders win the NFC Championship?",
+    "category": "Sports"
+  },
+  "329365615946223515173940433418135428165795615354296477295276007932036541995": {
+    "token_id": "329365615946223515173940433418135428165795615354296477295276007932036541995",
+    "condition_id": "0x25b04c45b7cf9ec42e4b2f1ebd92fcb15c4aecab83d76654faf74409d01553a6",
+    "text": "US inauguration on January 20? [Category: Politics] [YES outcome]",
+    "question": "US inauguration on January 20?",
+    "category": "Politics"
+  },
+  "60395003728329601128854643402133070492548146214529279048302343841694321221407": {
+    "token_id": "60395003728329601128854643402133070492548146214529279048302343841694321221407",
+    "condition_id": "0x4215c8a5b70a185b1b808fa49411a83c02e22bc35d48bd8d61d141c3365f91eb",
+    "text": "Biden removed via 25th Amendment? [Category: Politics] [YES outcome]",
+    "question": "Biden removed via 25th Amendment?",
+    "category": "Politics"
+  },
+  "47270804578301444864685225288237082268814933850650924067710464217312776546806": {
+    "token_id": "47270804578301444864685225288237082268814933850650924067710464217312776546806",
+    "condition_id": "0x94b5e89f9452903b913c7a13e693cb35e2cdc024fcff1e418414cc996346c1ad",
+    "text": "Will Puka Nacua be the top Fantasy Flex Player? [Category: Sports] [YES outcome]",
+    "question": "Will Puka Nacua be the top Fantasy Flex Player?",
+    "category": "Sports"
+  },
+  "3620306974437843745624106027075287847184755283592021115338359473870454935865": {
+    "token_id": "3620306974437843745624106027075287847184755283592021115338359473870454935865",
+    "condition_id": "0x57dc89d2f5803961a1c72add5969c2887f9591821d05421f2819fa17b664dd59",
+    "text": "Will a Republican win Ohio US Senate Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Ohio US Senate Election?",
+    "category": "Politics"
+  },
+  "67907845702606698787174525606026822541237125710080743620205634926727922648427": {
+    "token_id": "67907845702606698787174525606026822541237125710080743620205634926727922648427",
+    "condition_id": "0x05904e19533e1babd563de24a3da89d87d00741b98b6dc692025f21ef6c52319",
+    "text": "Will a Democrat win Nevada US Senate Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Nevada US Senate Election?",
+    "category": "Politics"
+  },
+  "1322257527198249914824674397775829453554909445313454136918939104775456362284": {
+    "token_id": "1322257527198249914824674397775829453554909445313454136918939104775456362284",
+    "condition_id": "0xea080bb58bfcd23b6b140b6d032d998ea2658c473cc6135f602361767d984ccf",
+    "text": "Will Republicans have 49 or fewer seats in Senate after election? [Category: Politics] [YES outcome]",
+    "question": "Will Republicans have 49 or fewer seats in Senate after election?",
+    "category": "Politics"
+  },
+  "12612446154658818790820869162690045426530309786415017500871410258353330100431": {
+    "token_id": "12612446154658818790820869162690045426530309786415017500871410258353330100431",
+    "condition_id": "0x846be8b2fc96f1033d715aeedcbcb7459945abef9b87599a9e02c27ee1c66b7f",
+    "text": "Will a Democrat win Colorado Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Colorado Presidential Election?",
+    "category": "Politics"
+  },
+  "703472062584814411408587996212205203179646194812695742911123851861537110765": {
+    "token_id": "703472062584814411408587996212205203179646194812695742911123851861537110765",
+    "condition_id": "0xa4c6117c3e921e491139cbebedb9c411ac39893c59ff8d16a7c74ea48d223dfd",
+    "text": "Trump blowout victory? [Category: Politics] [YES outcome]",
+    "question": "Trump blowout victory?",
+    "category": "Politics"
+  },
+  "5119924064763280485934231185169698568972720018736098380554153380895744475011": {
+    "token_id": "5119924064763280485934231185169698568972720018736098380554153380895744475011",
+    "condition_id": "0x6ae8ed05b9c95bec755adea20ebe96675b4e38e038331e393968e0583a38f7fd",
+    "text": "Will Jonathan Taylor be the top Fantasy Flex Player? [Category: Sports] [YES outcome]",
+    "question": "Will Jonathan Taylor be the top Fantasy Flex Player?",
+    "category": "Sports"
+  },
+  "22783268187940948624034771198275154008217327029957037012203267949379319628183": {
+    "token_id": "22783268187940948624034771198275154008217327029957037012203267949379319628183",
+    "condition_id": "0xbc4575615a6fb4f8b893c7301f554d19c5bf23b6d6ba8350997c48cf13a066c6",
+    "text": "Eigenlayer airdrop by September 30? [Category: Crypto] [YES outcome]",
+    "question": "Eigenlayer airdrop by September 30?",
+    "category": "Crypto"
+  },
+  "107044217179204375007391423171836736778333001654526073500109948457363605716489": {
+    "token_id": "107044217179204375007391423171836736778333001654526073500109948457363605716489",
+    "condition_id": "0x4a5b5f52c6e7f2af6b06462c92d12ea7bd1662c87be11828da0722ff32373b36",
+    "text": "Fed rate hike in 2024? [Category: Economy] [YES outcome]",
+    "question": "Fed rate hike in 2024?",
+    "category": "Economy"
+  },
+  "93448430177149998654682221639215180389788735852508947715926219168554497687770": {
+    "token_id": "93448430177149998654682221639215180389788735852508947715926219168554497687770",
+    "condition_id": "0x96e5c37056d1796abeff25df16addbf2d5787df2327db19d67a9289d88d1f3e2",
+    "text": "Will Kirk Cousins win NFL MVP for the 2024-25 season? [Category: Sports] [YES outcome]",
+    "question": "Will Kirk Cousins win NFL MVP for the 2024-25 season?",
+    "category": "Sports"
+  },
+  "33804873160115525908826100906752667721607660721702735308577137271003341711112": {
+    "token_id": "33804873160115525908826100906752667721607660721702735308577137271003341711112",
+    "condition_id": "0x8519211cabeacaedd00b8150512d55eea568f2ee0b2eb323c7d9e354017d3081",
+    "text": "Will Isiah Pacheco be the top Fantasy Running Back? [Category: Sports] [YES outcome]",
+    "question": "Will Isiah Pacheco be the top Fantasy Running Back?",
+    "category": "Sports"
+  },
+  "851052614939206457615526764460589297944586498956573031774773254533190726250": {
+    "token_id": "851052614939206457615526764460589297944586498956573031774773254533190726250",
+    "condition_id": "0x0ebf9290c87facccf4b0d646b175e66cdeddd3d6fc887aee32b88a04e34ce939",
+    "text": "Tether Insolvent in 2024? [Category: Crypto] [YES outcome]",
+    "question": "Tether Insolvent in 2024?",
+    "category": "Crypto"
+  },
+  "61117867245992005853582565921588844568802748610716296099606527267215907175115": {
+    "token_id": "61117867245992005853582565921588844568802748610716296099606527267215907175115",
+    "condition_id": "0x58798f2c10ec863168c5fe947323744562c404280427c7a47d196a875cf0e0c1",
+    "text": "Will Pennsylvania be the tipping point state? [Category: Politics] [YES outcome]",
+    "question": "Will Pennsylvania be the tipping point state?",
+    "category": "Politics"
+  },
+  "39623200091471028374712577912012365791011393912709672986570615201117585363982": {
+    "token_id": "39623200091471028374712577912012365791011393912709672986570615201117585363982",
+    "condition_id": "0x294fd2771d72317ab0888137193aac7dc90decd924cfcd69923edbc28d23d581",
+    "text": "Will a Democrat win Minnesota in the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Minnesota in the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "32272860844231060811233757055954807457524340164340805418730029984354041556115": {
+    "token_id": "32272860844231060811233757055954807457524340164340805418730029984354041556115",
+    "condition_id": "0xb3e11395bc67c2ad811de3ea4f58d47778e7a7d209eb73bc04a21c5a7472c186",
+    "text": "Will Fed cut interest rates 1 time in 2024? [Category: Economy] [YES outcome]",
+    "question": "Will Fed cut interest rates 1 time in 2024?",
+    "category": "Economy"
+  },
+  "108669279211240084591738564167769669890651634454159768893684675318536414275172": {
+    "token_id": "108669279211240084591738564167769669890651634454159768893684675318536414275172",
+    "condition_id": "0x19c01f1f32c93f71fd8a12deac61cab575e239eaf595a38dbafa5d76d5b44f26",
+    "text": "3 Trump vs. Harris debates before election? [Category: Politics] [YES outcome]",
+    "question": "3 Trump vs. Harris debates before election?",
+    "category": "Politics"
+  },
+  "85857311729373773343343144604975744791651623282152621707917199507651143164586": {
+    "token_id": "85857311729373773343343144604975744791651623282152621707917199507651143164586",
+    "condition_id": "0x296c9bdd15f0d09806f025b146dd14fe27f6ef624b83c5302f47a980669633c0",
+    "text": "Will Biden pardon Ross Ulbricht? [Category: Politics] [YES outcome]",
+    "question": "Will Biden pardon Ross Ulbricht?",
+    "category": "Politics"
+  },
+  "39610451808489359091225744616605783593218688051033352591068084124126317646408": {
+    "token_id": "39610451808489359091225744616605783593218688051033352591068084124126317646408",
+    "condition_id": "0xbd00b7bbe9cfd644555601eab5e6839d300f157655c7398e52363d65ca31d60e",
+    "text": "Will Kamala Harris be the Democratic VP nominee? [Category: Politics] [YES outcome]",
+    "question": "Will Kamala Harris be the Democratic VP nominee?",
+    "category": "Politics"
+  },
+  "45681547686349520295276721016577506498809733599870964143795533107443165275533": {
+    "token_id": "45681547686349520295276721016577506498809733599870964143795533107443165275533",
+    "condition_id": "0xa4fb24b93b88e40a7a12e81b1d16e2572059d773f3fd0a7ccc3e72dd060f7ce1",
+    "text": "Will the Ravens win the AFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Ravens win the AFC Championship?",
+    "category": "Sports"
+  },
+  "31616875690742652982902019464743664561664766403735453943317828986897057547547": {
+    "token_id": "31616875690742652982902019464743664561664766403735453943317828986897057547547",
+    "condition_id": "0xf812c6937a53e0c962f30016a3771ed76eb94100390b89a65bb3ffc75c227193",
+    "text": "Will Drake London be the top Fantasy Wide Receiver? [Category: Sports] [YES outcome]",
+    "question": "Will Drake London be the top Fantasy Wide Receiver?",
+    "category": "Sports"
+  },
+  "108834162458520698814040510759088225034898413731961968575339134947787384352011": {
+    "token_id": "108834162458520698814040510759088225034898413731961968575339134947787384352011",
+    "condition_id": "0x2cffd0db6c8b38b66534d8681858ea2acedc3ff90bc565d42a000ee2e3d04016",
+    "text": "Will Marvin Harrison Jr. be the top Fantasy Wide Receiver? [Category: Sports] [YES outcome]",
+    "question": "Will Marvin Harrison Jr. be the top Fantasy Wide Receiver?",
+    "category": "Sports"
+  },
+  "32425892313976707076074956758490070552308601583390675710612261261839576992052": {
+    "token_id": "32425892313976707076074956758490070552308601583390675710612261261839576992052",
+    "condition_id": "0x229c4674926a0d042e5f02f74d6ec4c6afe63847b0fdfb6c63fe18ae338b2628",
+    "text": "Will Israel invade Lebanon before September? [Category: Politics] [YES outcome]",
+    "question": "Will Israel invade Lebanon before September?",
+    "category": "Politics"
+  },
+  "67820595085226186004288574184774715676079637803684413481476913536147444871127": {
+    "token_id": "67820595085226186004288574184774715676079637803684413481476913536147444871127",
+    "condition_id": "0x75b11a483569e10a365536325111eaad75ccc9b02cfa7f26dd4695772943f5f8",
+    "text": "VP debate before election? [Category: Politics] [YES outcome]",
+    "question": "VP debate before election?",
+    "category": "Politics"
+  },
+  "112622598487769724589327526733872937981690275751931712816778517669850598443526": {
+    "token_id": "112622598487769724589327526733872937981690275751931712816778517669850598443526",
+    "condition_id": "0x7cd2a039b83b68941d2c7a07978ab90fa4c436350330b02ab6b96de9b4dadf33",
+    "text": "Trump nominates RFK Jr. to Cabinet? [Category: Politics] [YES outcome]",
+    "question": "Trump nominates RFK Jr. to Cabinet?",
+    "category": "Politics"
+  },
+  "65989994792976352255433300258455728943645568280305115181889874840494929551303": {
+    "token_id": "65989994792976352255433300258455728943645568280305115181889874840494929551303",
+    "condition_id": "0x96261daed8514e7626debfe92b1c7b33d61f065580a2c991b6d6d3fb366b7372",
+    "text": "Will Republicans have 53 seats in Senate after election? [Category: Politics] [YES outcome]",
+    "question": "Will Republicans have 53 seats in Senate after election?",
+    "category": "Politics"
+  },
+  "29248242988957024957749145407613210275607073690234607747607028828964749034344": {
+    "token_id": "29248242988957024957749145407613210275607073690234607747607028828964749034344",
+    "condition_id": "0xc5db10fafffb5283a093c435ce617a61f0127e3a24a57419e7d25550c6b8df38",
+    "text": "Will North Korea invade South Korea in 2024? [Category: Politics] [YES outcome]",
+    "question": "Will North Korea invade South Korea in 2024?",
+    "category": "Politics"
+  },
+  "78327709401477135994305862510018550540044663823097540867758848760267576037629": {
+    "token_id": "78327709401477135994305862510018550540044663823097540867758848760267576037629",
+    "condition_id": "0x536edf11e2966f157280f0def83fec67c215be63fe508a7128793dfc415d141b",
+    "text": "Will RFK Jr. win <1% of the popular vote? [Category: Politics] [YES outcome]",
+    "question": "Will RFK Jr. win <1% of the popular vote?",
+    "category": "Politics"
+  },
+  "28275425544442560767819765532629949209619217556570057946717108121137817389610": {
+    "token_id": "28275425544442560767819765532629949209619217556570057946717108121137817389610",
+    "condition_id": "0x8a2ae5fe3795afdd425c93105915391ca4a3778e6940970900524ea0166dfab0",
+    "text": "Starmer out as UK prime minister in 2024? [Category: Politics] [YES outcome]",
+    "question": "Starmer out as UK prime minister in 2024?",
+    "category": "Politics"
+  },
+  "51951132517634566572697955276912844023773818911920893197783917005487661706544": {
+    "token_id": "51951132517634566572697955276912844023773818911920893197783917005487661706544",
+    "condition_id": "0x7ade8b93914ae38b2fc95cba3e6796667b838add5f06ee2dc97b812fbd464c32",
+    "text": "Eigenlayer market cap (FDV) <$10b one day after launch? [Category: Crypto] [YES outcome]",
+    "question": "Eigenlayer market cap (FDV) <$10b one day after launch?",
+    "category": "Crypto"
+  },
+  "106312577077187514052471171906090469938873270985312823965476633975283193984510": {
+    "token_id": "106312577077187514052471171906090469938873270985312823965476633975283193984510",
+    "condition_id": "0xffdac560d86877634249a40744ed53a0758712439fe2a2d20b3cb18d178a9673",
+    "text": "Will Notre Dame win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will Notre Dame win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "107171338338026342933777315004408262462317996821497585761741762294022924821630": {
+    "token_id": "107171338338026342933777315004408262462317996821497585761741762294022924821630",
+    "condition_id": "0x5dc75ad04551b23845e0eaa8f495f5ebc14234a087e09eddbcd7bbcceba177d1",
+    "text": "Will Ohio State win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will Ohio State win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "89046479462091022325915902135760876403185047396137676911257483672889091889579": {
+    "token_id": "89046479462091022325915902135760876403185047396137676911257483672889091889579",
+    "condition_id": "0xe503e89ab492ea8cd6864e508b04562a447bda6816b93f2f3b982dd3c489c897",
+    "text": "Will Nico Collins be the top Fantasy Wide Receiver? [Category: Sports] [YES outcome]",
+    "question": "Will Nico Collins be the top Fantasy Wide Receiver?",
+    "category": "Sports"
+  },
+  "7151072602862818518558420653689523169083676882875812907471196167243383067891": {
+    "token_id": "7151072602862818518558420653689523169083676882875812907471196167243383067891",
+    "condition_id": "0xea27d1fc974b4aa0756d37bb2c72e9e424b74a271e291b195510dc68399e5071",
+    "text": "Bird flu pandemic in 2024? [Category: Science] [YES outcome]",
+    "question": "Bird flu pandemic in 2024?",
+    "category": "Science"
+  },
+  "19824947305676488713724709426195605644465067988509119211870826829613338135053": {
+    "token_id": "19824947305676488713724709426195605644465067988509119211870826829613338135053",
+    "condition_id": "0x24ace0c29dc2c801992ea6b7c795d3e7c4f2ad40343bc9f0becef694b2ef197f",
+    "text": "Will a Democrat win California Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win California Presidential Election?",
+    "category": "Politics"
+  },
+  "75956420126626874801032742813528743283697670433142969169776824648939448809575": {
+    "token_id": "75956420126626874801032742813528743283697670433142969169776824648939448809575",
+    "condition_id": "0xe32b258020c4663576e22423fb9792932a44fd5986d5081bee13a7c7c684281e",
+    "text": "Will \u226510% of Votes go to 3rd Party Candidates in the 2024 US Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will \u226510% of Votes go to 3rd Party Candidates in the 2024 US Presidential Election?",
+    "category": "Politics"
+  },
+  "112590721304444408627038441133451909689304252627710210287486606509799395534781": {
+    "token_id": "112590721304444408627038441133451909689304252627710210287486606509799395534781",
+    "condition_id": "0x05d769a6ba5ac64ae196ff0120bb7400b6697a5cf94573f364d35cc28dbfa22d",
+    "text": "Kamala flips a 2020 Trump state? [Category: Politics] [YES outcome]",
+    "question": "Kamala flips a 2020 Trump state?",
+    "category": "Politics"
+  },
+  "110407040728841074653579811857395734742462679244768470248891403370982657391624": {
+    "token_id": "110407040728841074653579811857395734742462679244768470248891403370982657391624",
+    "condition_id": "0x99cae1b83694726803dd03dea2465fee332ba788b8a9d24e42e9ddd5391c6b9b",
+    "text": "Will a Republican win Nevada US Senate Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Nevada US Senate Election?",
+    "category": "Politics"
+  },
+  "72658466018042876430677856627950193897771862677271149565873205160706233256707": {
+    "token_id": "72658466018042876430677856627950193897771862677271149565873205160706233256707",
+    "condition_id": "0x6b35fcfa94f1aeba135d8c1fdee5018e9ac50a1be642a4bc5ee68ad15e252987",
+    "text": "Will the Browns win the AFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Browns win the AFC Championship?",
+    "category": "Sports"
+  },
+  "55573915273048976912043031164180426606929087432651465078250508691902092851741": {
+    "token_id": "55573915273048976912043031164180426606929087432651465078250508691902092851741",
+    "condition_id": "0x170e269fe2091f2092c5c1ddafca0519081a0bafcb0941ae13fbc1addb08d782",
+    "text": "Will Republicans have 54 seats in Senate after election? [Category: Politics] [YES outcome]",
+    "question": "Will Republicans have 54 seats in Senate after election?",
+    "category": "Politics"
+  },
+  "6571858988649500177195869213199872741614858794903384237584091401545788581473": {
+    "token_id": "6571858988649500177195869213199872741614858794903384237584091401545788581473",
+    "condition_id": "0xaabe9f46dd7a00b86bf21bdda6b142e91d2a41b15ff9f8f7802579805ac693a0",
+    "text": "Will the Chiefs win the AFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Chiefs win the AFC Championship?",
+    "category": "Sports"
+  },
+  "106556635471772911586614313989151393945990110659335310095262547110240967181207": {
+    "token_id": "106556635471772911586614313989151393945990110659335310095262547110240967181207",
+    "condition_id": "0x436b731d219f6da8caf7147d02d2a18e31ca770154225aef63c52f632e36e564",
+    "text": "Will a Republican win Colorado Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Colorado Presidential Election?",
+    "category": "Politics"
+  },
+  "67279249078787027933851872712966991992167274959481115562615679181595754890338": {
+    "token_id": "67279249078787027933851872712966991992167274959481115562615679181595754890338",
+    "condition_id": "0xea7edb8353693d246fe8f3988d1140f8abe8743d413c52669031ea5be8e1eacd",
+    "text": "Iran Nuke in 2024? [Category: Geopolitics] [YES outcome]",
+    "question": "Iran Nuke in 2024?",
+    "category": "Geopolitics"
+  },
+  "30150567569719455122892991006539051920760137453518856817121534220233023026730": {
+    "token_id": "30150567569719455122892991006539051920760137453518856817121534220233023026730",
+    "condition_id": "0x689a0b1047d08a1081d604c8c09c4eb5719cbd0e926e4e8492800ce58578bd79",
+    "text": "Will a Republican win Maine Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Maine Presidential Election?",
+    "category": "Politics"
+  },
+  "68561417897033604337868650492221482955721699054419968239358714547561632866036": {
+    "token_id": "68561417897033604337868650492221482955721699054419968239358714547561632866036",
+    "condition_id": "0x77ec24a85b85b8ef4e43974fa4299220365f50c3dbfc1be52a9c42e73c4d3bd9",
+    "text": "Will Nebraska's 2nd Congressional District be the tipping point jurisdiction? [Category: Politics] [YES outcome]",
+    "question": "Will Nebraska's 2nd Congressional District be the tipping point jurisdiction?",
+    "category": "Politics"
+  },
+  "78307614038486164602702977878913847541694839339683632846666802069985891395088": {
+    "token_id": "78307614038486164602702977878913847541694839339683632846666802069985891395088",
+    "condition_id": "0x03ae1b62fa4eea75c286e9d461afa30d943be864f61dcc1f86f6764c4ec099c6",
+    "text": "Will Ahsha Safai win the San Francisco Mayoral Election? [Category: Politics] [YES outcome]",
+    "question": "Will Ahsha Safai win the San Francisco Mayoral Election?",
+    "category": "Politics"
+  },
+  "80332381014310762500462611104535522261876774738159045302005346353021349772614": {
+    "token_id": "80332381014310762500462611104535522261876774738159045302005346353021349772614",
+    "condition_id": "0xdcca092aa2cc55f8053437e3f71ee853aa89f28582ac98231b0625a8609df32d",
+    "text": "Trump-Vance Republican ticket on election day? [Category: Politics] [YES outcome]",
+    "question": "Trump-Vance Republican ticket on election day?",
+    "category": "Politics"
+  },
+  "99830846713807084277950392215452568080477500108350730334986898631459175275385": {
+    "token_id": "99830846713807084277950392215452568080477500108350730334986898631459175275385",
+    "condition_id": "0x6964df311eba3add433112c9ab13ef529c8e2e07e7c115b9cc548de035f5b25f",
+    "text": "Will a Republican win California Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win California Presidential Election?",
+    "category": "Politics"
+  },
+  "52746170271820774840519802746947834002886242183349067490976543818869701977964": {
+    "token_id": "52746170271820774840519802746947834002886242183349067490976543818869701977964",
+    "condition_id": "0xc8f2b2277aa63627071a3f0db8dd70e7fc490219b28f9486bf0bc0c0434f7b77",
+    "text": "Solana ETF approved in 2024? [Category: Crypto] [YES outcome]",
+    "question": "Solana ETF approved in 2024?",
+    "category": "Crypto"
+  },
+  "59770167779431972236473215217409501317307840066901607383265128868337800951789": {
+    "token_id": "59770167779431972236473215217409501317307840066901607383265128868337800951789",
+    "condition_id": "0xcd0300fd1ffbedd675089e73ade768ca3952943978d2b161ac8a8c6c9d523340",
+    "text": "Will Miami (FL) win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will Miami (FL) win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "11485054296310760364621250980668707963064702195349601555907823991227317047108": {
+    "token_id": "11485054296310760364621250980668707963064702195349601555907823991227317047108",
+    "condition_id": "0x0590ee8929a1178e5490b8a98915d2e3697b5b67ec7872cf3d102814db65e5ad",
+    "text": "Israel x Hamas ceasefire before September? [Category: Politics] [YES outcome]",
+    "question": "Israel x Hamas ceasefire before September?",
+    "category": "Politics"
+  },
+  "54469251342321570271169596690224041563094687636842265318767083080490546931820": {
+    "token_id": "54469251342321570271169596690224041563094687636842265318767083080490546931820",
+    "condition_id": "0xa8f9da1409ba89bfa4a40dbd3bced4a65dfb3090e3c5c7cf80a56964e5eeb7e9",
+    "text": "Will Charles Leclerc win the 2024 F1 season? [Category: Sports] [YES outcome]",
+    "question": "Will Charles Leclerc win the 2024 F1 season?",
+    "category": "Sports"
+  },
+  "17906123242611330387326869132910022245479953207799367176427331052420047608591": {
+    "token_id": "17906123242611330387326869132910022245479953207799367176427331052420047608591",
+    "condition_id": "0x02c8326d2a5e3b67d97b2f642f7d5c032a4f633c29f732856fa144d0d91fdb3b",
+    "text": "FTX doesn't start payouts in 2024? [Category: Crypto] [YES outcome]",
+    "question": "FTX doesn't start payouts in 2024?",
+    "category": "Crypto"
+  },
+  "15407759487459153013322613294276606149699185219054530490192381346750044714451": {
+    "token_id": "15407759487459153013322613294276606149699185219054530490192381346750044714451",
+    "condition_id": "0x92ab5e178f52b7af61c7976451130558cc157feb016afa3f790e74b614250b6a",
+    "text": "Solana all time high in Q4? [Category: Crypto] [YES outcome]",
+    "question": "Solana all time high in Q4?",
+    "category": "Crypto"
+  },
+  "53234527504385216100532577318176113690356715003644951508677664096741436571803": {
+    "token_id": "53234527504385216100532577318176113690356715003644951508677664096741436571803",
+    "condition_id": "0x661a6d0e875ac492ff936bbe61b899ef0dd48f44936f33438720d484fdfcbc7e",
+    "text": "Will a Republican win New Mexico Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win New Mexico Presidential Election?",
+    "category": "Politics"
+  },
+  "63274742746038569072318845948029196973566077735853942521705267174312134280433": {
+    "token_id": "63274742746038569072318845948029196973566077735853942521705267174312134280433",
+    "condition_id": "0x372f717882a5bf292d2f9de80ab3c43c7dc4817e88d7134ae36484238486c622",
+    "text": "Will a Democrat win Maine Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Maine Presidential Election?",
+    "category": "Politics"
+  },
+  "4096904918691388819154068514730430984468252716491899226646882112520537976022": {
+    "token_id": "4096904918691388819154068514730430984468252716491899226646882112520537976022",
+    "condition_id": "0x32755657561c75af11b8179b5038532e043bcc4fc43aad41bef843e2474e04eb",
+    "text": "Global heat increase greater than 1.30\u00b0C for 2024? [Category: Science] [YES outcome]",
+    "question": "Global heat increase greater than 1.30\u00b0C for 2024?",
+    "category": "Science"
+  },
+  "30433063601804969782966321343137602676088326644512938151511029794909444924934": {
+    "token_id": "30433063601804969782966321343137602676088326644512938151511029794909444924934",
+    "condition_id": "0x5c9490cd2121384ebb7a08b0aed1fa9a5239d98096d91b4bd6827c47c94951b2",
+    "text": "Israel military action against Iran by end of 2024? [Category: Politics] [YES outcome]",
+    "question": "Israel military action against Iran by end of 2024?",
+    "category": "Politics"
+  },
+  "112351777337161379111288839897546653337679864653660560706969998650137576078945": {
+    "token_id": "112351777337161379111288839897546653337679864653660560706969998650137576078945",
+    "condition_id": "0x128fcf8ce54619791a6d85c3ae9d2e8b5abcac5e152e95499f4b6b00d0449913",
+    "text": "Will the Eagles win the NFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Eagles win the NFC Championship?",
+    "category": "Sports"
+  },
+  "98992663783739999588255893859010135546350245175548027994964451474849820042816": {
+    "token_id": "98992663783739999588255893859010135546350245175548027994964451474849820042816",
+    "condition_id": "0x009f3196eb90f47b7eb23e1cc0b06759806df193ec58a0dab081eaabbe8a1310",
+    "text": "Will a Republican win Ohio Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Ohio Presidential Election?",
+    "category": "Politics"
+  },
+  "42784198371882277527399087502668573684089076638587224503693275673681317267235": {
+    "token_id": "42784198371882277527399087502668573684089076638587224503693275673681317267235",
+    "condition_id": "0xe610902a9cbe5a4969466a5b853f9165fa071b9804aa7f71db768db5c757b96b",
+    "text": "Will weed be rescheduled in 2024? [Category: Politics] [YES outcome]",
+    "question": "Will weed be rescheduled in 2024?",
+    "category": "Politics"
+  },
+  "105850438828614884452197310938430279698886324164735312931762902384271674871323": {
+    "token_id": "105850438828614884452197310938430279698886324164735312931762902384271674871323",
+    "condition_id": "0xd2d4628c6119f20763ac855b54db1fbb408b518d81bbed249bf5b09fb72f4537",
+    "text": "OpenAI announces it has achieved AGI in 2024? [Category: Business] [YES outcome]",
+    "question": "OpenAI announces it has achieved AGI in 2024?",
+    "category": "Business"
+  },
+  "107398595209864103976140659304436413092229730249009840752863422164742727107773": {
+    "token_id": "107398595209864103976140659304436413092229730249009840752863422164742727107773",
+    "condition_id": "0xbe4f88565882170b13a66967bdad614a62c63b025e150e347d10553c58575287",
+    "text": "Will a Democrat win New Mexico Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win New Mexico Presidential Election?",
+    "category": "Politics"
+  },
+  "18765295379682532680202347435758934562158325235786373122384369533539807338211": {
+    "token_id": "18765295379682532680202347435758934562158325235786373122384369533539807338211",
+    "condition_id": "0xbaaf437611455685071601176d7c6c40cf7cd96a922f6cc98b8cb269c03e58f3",
+    "text": "Will the Vikings win the NFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Vikings win the NFC Championship?",
+    "category": "Sports"
+  },
+  "5342322558879135113719590672336545201290330534347169248566656938864331545571": {
+    "token_id": "5342322558879135113719590672336545201290330534347169248566656938864331545571",
+    "condition_id": "0x953df935219461ccfd3cb6367cc03f03856e850e4a51194f4a963156c4272370",
+    "text": "Will a Republican win Wyoming Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Republican win Wyoming Presidential Election?",
+    "category": "Politics"
+  },
+  "30022838802547927838224903337523363836986115360126820340769428661359593309876": {
+    "token_id": "30022838802547927838224903337523363836986115360126820340769428661359593309876",
+    "condition_id": "0x7eca3eee73a4d437797aeb9a1815aaf4484403bdb926791f7e5c435a7f05f0e3",
+    "text": "Will a Democrat win Ohio US Senate Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Ohio US Senate Election?",
+    "category": "Politics"
+  },
+  "106892150924260441763374834220786128614515793239762915763156977476233362075768": {
+    "token_id": "106892150924260441763374834220786128614515793239762915763156977476233362075768",
+    "condition_id": "0x1e928e855e0f13ba10423fc32ffbb7d633a28af98162d91b7e3f23f41184083c",
+    "text": "Will Tennessee win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": "Will Tennessee win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "13247744174656350720927326534263699577700933369463354249506825900522337158091": {
+    "token_id": "13247744174656350720927326534263699577700933369463354249506825900522337158091",
+    "condition_id": "0x75e90d6830fcc4b274acdbf8869a8b0f464a67d0b86c97d3081a8696a3cd8134",
+    "text": "Trump gets more black voters than in 2020? [Category: Politics] [YES outcome]",
+    "question": "Trump gets more black voters than in 2020?",
+    "category": "Politics"
+  },
+  "82898973891349090000009898346075785966923510384639108139092608270562553378025": {
+    "token_id": "82898973891349090000009898346075785966923510384639108139092608270562553378025",
+    "condition_id": "0xbc22ac8122208f8bb6bc8ae52e9ab82cffdeb407f76496a0178b123791f4fb4b",
+    "text": "Will Carlos Sainz win the 2024 F1 season? [Category: Sports] [YES outcome]",
+    "question": "Will Carlos Sainz win the 2024 F1 season?",
+    "category": "Sports"
+  },
+  "18452985105848058085164256095103379896152434765344179418467309504634821179859": {
+    "token_id": "18452985105848058085164256095103379896152434765344179418467309504634821179859",
+    "condition_id": "0x501f66db1dd45776981ea77743d9a791af0a459cd8c07825e8e59710551862c6",
+    "text": "Will Ole Miss win the 2025 College Football Playoff? [Category: Sports] [YES outcome]",
+    "question": " Will Ole Miss win the 2025 College Football Playoff?",
+    "category": "Sports"
+  },
+  "7199924557536673982836049841538041571403060582795466550710959952259572350257": {
+    "token_id": "7199924557536673982836049841538041571403060582795466550710959952259572350257",
+    "condition_id": "0x6015c53496b7a099d952edf8d74f2d2e839aa09d2084df79be603e1db949da71",
+    "text": "U.S. Recession in 2024? [Category: Economy] [YES outcome]",
+    "question": "U.S. Recession in 2024?",
+    "category": "Economy"
+  },
+  "10186430541994032919518337850246457730045237657253308798239015662010821264014": {
+    "token_id": "10186430541994032919518337850246457730045237657253308798239015662010821264014",
+    "condition_id": "0x0d87a98b20f157803213582f7c84fb1d52d95d90127b37a1df0c6f800e2711fb",
+    "text": "Will Jonathan Taylor be the top Fantasy Running Back? [Category: Sports] [YES outcome]",
+    "question": "Will Jonathan Taylor be the top Fantasy Running Back?",
+    "category": "Sports"
+  },
+  "8178830579798188420508767805702110699998393810134589808331286176923484486828": {
+    "token_id": "8178830579798188420508767805702110699998393810134589808331286176923484486828",
+    "condition_id": "0x158fcb0b8844c9cdecb95940a3a1a643799ab8d03f6234d449ff344e4bafad6c",
+    "text": "Kamala Harris wins a solid red state? [Category: Politics] [YES outcome]",
+    "question": "Kamala Harris wins a solid red state?",
+    "category": "Politics"
+  },
+  "70999027545812601072628528527373962553869427124236181554131161528873809051989": {
+    "token_id": "70999027545812601072628528527373962553869427124236181554131161528873809051989",
+    "condition_id": "0xd596e54d8df41c361327ff52493b702b064d46ecdce61119faae6efb6bb665ae",
+    "text": "Will the Lions win the NFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Lions win the NFC Championship?",
+    "category": "Sports"
+  },
+  "14781612204108880620413192636864168464153720731555075754648681842608563150461": {
+    "token_id": "14781612204108880620413192636864168464153720731555075754648681842608563150461",
+    "condition_id": "0x0807370a763dd3f755a508fb87ef4b06f396512be4f069fb8f254500ee337acd",
+    "text": "Will Michael Pittman Jr. be the top Fantasy Wide Receiver? [Category: Sports] [YES outcome]",
+    "question": "Will Michael Pittman Jr. be the top Fantasy Wide Receiver?",
+    "category": "Sports"
+  },
+  "54885963332546641851058420582143992174185292390777712455341109073181878929371": {
+    "token_id": "54885963332546641851058420582143992174185292390777712455341109073181878929371",
+    "condition_id": "0x03e8104c04bd6139b9594a971230f72c9d9a07c98df4c23e867e583d46ec909b",
+    "text": "Will Michelle Obama become Dem Nominee? [Category: Politics] [YES outcome]",
+    "question": "Will Michelle Obama become Dem Nominee?  ",
+    "category": "Politics"
+  },
+  "56751051044315697592343927940341269082334198655860140400176330878415590898827": {
+    "token_id": "56751051044315697592343927940341269082334198655860140400176330878415590898827",
+    "condition_id": "0xc9043aeb6d4abb68d13c2f4a0f67ab162243b99b0caea3d8103836302623d52f",
+    "text": "Will a Democrat win Ohio Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Ohio Presidential Election?",
+    "category": "Politics"
+  },
+  "10414314798079334516792355449090565739762052554849865995220910336252938136478": {
+    "token_id": "10414314798079334516792355449090565739762052554849865995220910336252938136478",
+    "condition_id": "0x4e861381d9a9f4eca9e90c15638dfac88f727ab13ddc153ab09dc1f3a4056d0c",
+    "text": "Fed emergency rate cut in 2024? [Category: Economy] [YES outcome]",
+    "question": "Fed emergency rate cut in 2024?",
+    "category": "Economy"
+  },
+  "66103355869922553341380243400213960081849885416074046575913026966107722127944": {
+    "token_id": "66103355869922553341380243400213960081849885416074046575913026966107722127944",
+    "condition_id": "0xc68fce919a7f2836e607b4775777f7bbd9e995d1e6d764408ed0350802abb3db",
+    "text": "Will a Democrat win Alaska Presidential Election? [Category: Politics] [YES outcome]",
+    "question": "Will a Democrat win Alaska Presidential Election?",
+    "category": "Politics"
+  },
+  "108836410370988109064011258469167002466687593861167534594890674967458692643971": {
+    "token_id": "108836410370988109064011258469167002466687593861167534594890674967458692643971",
+    "condition_id": "0x44f381acda56e50f0bddec38a249cbb0fdd3d98f8a1ae8e8b2367ad542a240da",
+    "text": "Will Max Verstappen win the 2024 F1 season? [Category: Sports] [YES outcome]",
+    "question": "Will Max Verstappen win the 2024 F1 season?",
+    "category": "Sports"
+  },
+  "36040556410278774342064913708129062661193830454733718008708478917939075843565": {
+    "token_id": "36040556410278774342064913708129062661193830454733718008708478917939075843565",
+    "condition_id": "0x5f1eacf52b67e971102e6c1418e69a9c141c9a21e08527be10fac19301495a05",
+    "text": "Will Ferrari win the 2024 F1 Constructors Championship? [Category: Sports] [YES outcome]",
+    "question": "Will Ferrari win the 2024 F1 Constructors Championship?",
+    "category": "Sports"
+  },
+  "41048641284165638646608911026671244891817588887483441496051656844831207268427": {
+    "token_id": "41048641284165638646608911026671244891817588887483441496051656844831207268427",
+    "condition_id": "0xd3b35c9c70d199a85f23be172696b57a32d95edf3b90aa2f124a4043e2f165f7",
+    "text": "Will the Buccaneers win the NFC Championship? [Category: Sports] [YES outcome]",
+    "question": "Will the Buccaneers win the NFC Championship?",
+    "category": "Sports"
+  }
+}

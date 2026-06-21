@@ -1,0 +1,11 @@
+ablation,ari_to_baseline,leadingness_spearman,n_edges,key_stat
+metric: Pearson,0.1716702395904728,0.6329240531171159,8676,vs dcor
+metric: Kendall,0.036100990855630455,0.4623347587879932,8676,vs dcor
+method: symmetric (vs Hermitian),0.14237423501015184,,8676,"ARI(Hermitian, symmetric)"
+k=2,0.0919782004721953,,8676,ARI_vs_category=0.019
+k=3,0.1243342273335565,,8676,ARI_vs_category=0.128
+k=5,0.231535324679432,,8676,ARI_vs_category=0.089
+k=7,1.0,,8676,ARI_vs_category=0.044
+k=10,0.24487569480010893,,8676,ARI_vs_category=0.035
+common-factor removed,,0.7466985318498831,9304,PC1=10.5%var; struct survives
+liquidity (Step 1.6),,,8676,leadingness~vol R2=0.006; persists in terciles

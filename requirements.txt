@@ -1,0 +1,19 @@
+# Semantically-Grounded Lead-Lag Networks — pinned dependencies
+# Python 3.10.9. Install:  pip install -r requirements.txt
+#
+# NOTE: threadpoolctl must be >= 3.5 — older versions (2.x) crash scikit-learn
+# KMeans on some conda/MKL builds ('NoneType' has no attribute 'split').
+
+numpy==1.23.5
+scipy==1.10.0
+pandas==1.5.3
+pyarrow==24.0.0
+scikit-learn==1.2.1
+statsmodels==0.13.5
+dcor==0.7
+sentence-transformers==3.3.1
+networkx==2.8.4
+matplotlib==3.7.0
+joblib==1.1.1
+threadpoolctl==3.6.0
+requests==2.32.3

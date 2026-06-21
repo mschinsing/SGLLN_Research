@@ -1,0 +1,20 @@
+# ── OS / editor junk ──
+.DS_Store
+*.swp
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ── Virtual environments ──
+venv/
+.venv/
+env/
+
+# ── Raw data: 86 MB / 4,434 re-fetchable JSONs (regenerate: python run_phase0.py) ──
+data/raw/
+
+# ── Course reference docs: third-party PDF + private proposal ──
+285J_Reference_Docs/
