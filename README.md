@@ -71,7 +71,7 @@ FINDINGS.md  HYPOTHESES.md   # results & hypothesis adjudication
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/SGLLN.git && cd SGLLN
+git clone https://github.com/mschinsing/SGLLN_Research.git && cd SGLLN_Research
 python -m venv venv && source venv/bin/activate     # Python 3.10
 pip install -r requirements.txt
 ```
